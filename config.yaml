@@ -1,0 +1,23 @@
+# Log Anomaly Detection System Configuration
+
+slack:
+  webhook_url: "https://hooks.slack.com/services/YOUR/SLACK/WEBHOOK"
+  enabled: true
+  cooldown_seconds: 10
+  channel: "#log-alerts"
+  bot_name: "Log Sentinel"
+
+model:
+  path: "model.joblib"
+  contamination: 0.05
+  n_estimators: 100
+  random_state: 42
+
+features:
+  tfidf_max_features: 100
+  scale_numeric: true
+
+logging:
+  train_log_path: "training_logs.log"
+  monitor_log_path: "live.log"
+  tail_poll_interval: 0.1

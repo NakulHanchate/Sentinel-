@@ -1,0 +1,1000 @@
+192.168.1.1 - - [18/Aug/2026:23:00:23 +0000] "POST /api/v1/login HTTP/1.1" 200 200 "-" "Mozilla/5.0"
+2026-08-18 23:00:25 [INFO] Background job completed successfully in 23ms
+192.168.1.3 - - [18/Aug/2026:23:00:27 +0000] "GET /index.html HTTP/1.1" 200 274 "-" "Mozilla/5.0"
+2026-08-18 23:00:29 [INFO] Background job completed successfully in 49ms
+192.168.1.5 - - [18/Aug/2026:23:00:31 +0000] "GET /api/v1/products HTTP/1.1" 200 348 "-" "Mozilla/5.0"
+192.168.1.6 - - [18/Aug/2026:23:00:33 +0000] "GET /index.html HTTP/1.1" 200 385 "-" "Mozilla/5.0"
+2026-08-18 23:00:35 [INFO] Background job completed successfully in 88ms
+192.168.1.8 - - [18/Aug/2026:23:00:37 +0000] "GET /index.html HTTP/1.1" 200 459 "-" "Mozilla/5.0"
+192.168.1.9 - - [18/Aug/2026:23:00:39 +0000] "POST /api/v1/login HTTP/1.1" 200 496 "-" "Mozilla/5.0"
+192.168.1.10 - - [18/Aug/2026:23:00:41 +0000] "POST /api/v1/login HTTP/1.1" 200 533 "-" "Mozilla/5.0"
+2026-08-18 23:00:43 [INFO] Background job completed successfully in 140ms
+192.168.1.12 - - [18/Aug/2026:23:00:45 +0000] "POST /api/v1/login HTTP/1.1" 200 607 "-" "Mozilla/5.0"
+192.168.1.13 - - [18/Aug/2026:23:00:47 +0000] "GET /api/v1/products HTTP/1.1" 200 644 "-" "Mozilla/5.0"
+192.168.1.14 - - [18/Aug/2026:23:00:49 +0000] "POST /api/v1/login HTTP/1.1" 200 681 "-" "Mozilla/5.0"
+2026-08-18 23:00:51 [INFO] Background job completed successfully in 192ms
+192.168.1.16 - - [18/Aug/2026:23:00:53 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.17 - - [18/Aug/2026:23:00:55 +0000] "GET /api/v1/products HTTP/1.1" 200 792 "-" "Mozilla/5.0"
+192.168.1.18 - - [18/Aug/2026:23:00:57 +0000] "GET /index.html HTTP/1.1" 200 829 "-" "Mozilla/5.0"
+192.168.1.19 - - [18/Aug/2026:23:00:59 +0000] "GET /api/v1/products HTTP/1.1" 200 866 "-" "Mozilla/5.0"
+192.168.1.20 - - [18/Aug/2026:23:01:01 +0000] "POST /api/v1/login HTTP/1.1" 200 903 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:01:03 +0000] "GET /api/search?q=' OR 1=1 -- HTTP/1.1" 500 4096 "-" "Python-urllib/3.8"
+192.168.1.22 - - [18/Aug/2026:23:01:05 +0000] "GET /api/v1/products HTTP/1.1" 200 977 "-" "Mozilla/5.0"
+192.168.1.23 - - [18/Aug/2026:23:01:07 +0000] "GET /index.html HTTP/1.1" 200 1014 "-" "Mozilla/5.0"
+192.168.1.24 - - [18/Aug/2026:23:01:09 +0000] "POST /api/v1/login HTTP/1.1" 200 1051 "-" "Mozilla/5.0"
+192.168.1.25 - - [18/Aug/2026:23:01:11 +0000] "GET /index.html HTTP/1.1" 200 1088 "-" "Mozilla/5.0"
+2026-08-18 23:01:13 [INFO] Background job completed successfully in 85ms
+192.168.1.27 - - [18/Aug/2026:23:01:15 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.28 - - [18/Aug/2026:23:01:17 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.29 - - [18/Aug/2026:23:01:19 +0000] "GET /index.html HTTP/1.1" 200 1236 "-" "Mozilla/5.0"
+192.168.1.30 - - [18/Aug/2026:23:01:21 +0000] "GET /index.html HTTP/1.1" 200 1273 "-" "Mozilla/5.0"
+2026-08-18 23:01:23 [INFO] Background job completed successfully in 150ms
+192.168.1.32 - - [18/Aug/2026:23:01:25 +0000] "POST /api/v1/login HTTP/1.1" 200 1347 "-" "Mozilla/5.0"
+192.168.1.33 - - [18/Aug/2026:23:01:27 +0000] "GET /index.html HTTP/1.1" 200 1384 "-" "Mozilla/5.0"
+192.168.1.34 - - [18/Aug/2026:23:01:29 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.35 - - [18/Aug/2026:23:01:31 +0000] "GET /index.html HTTP/1.1" 200 1458 "-" "Mozilla/5.0"
+192.168.1.36 - - [18/Aug/2026:23:01:33 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.37 - - [18/Aug/2026:23:01:35 +0000] "GET /api/v1/products HTTP/1.1" 200 1532 "-" "Mozilla/5.0"
+192.168.1.38 - - [18/Aug/2026:23:01:37 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.39 - - [18/Aug/2026:23:01:39 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:01:41 [INFO] Background job completed successfully in 17ms
+10.0.0.99 - - [18/Aug/2026:23:01:43 +0000] "GET /../../etc/passwd HTTP/1.1" 403 512 "-" "CustomScanner/1.0"
+2026-08-18 23:01:45 [INFO] Background job completed successfully in 43ms
+192.168.1.43 - - [18/Aug/2026:23:01:47 +0000] "GET /index.html HTTP/1.1" 200 1754 "-" "Mozilla/5.0"
+192.168.1.44 - - [18/Aug/2026:23:01:49 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.45 - - [18/Aug/2026:23:01:51 +0000] "GET /index.html HTTP/1.1" 200 1828 "-" "Mozilla/5.0"
+192.168.1.46 - - [18/Aug/2026:23:01:53 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.47 - - [18/Aug/2026:23:01:55 +0000] "POST /api/v1/login HTTP/1.1" 200 1902 "-" "Mozilla/5.0"
+192.168.1.48 - - [18/Aug/2026:23:01:57 +0000] "GET /api/v1/products HTTP/1.1" 200 1939 "-" "Mozilla/5.0"
+192.168.1.49 - - [18/Aug/2026:23:01:59 +0000] "GET /api/v1/products HTTP/1.1" 200 1976 "-" "Mozilla/5.0"
+192.168.1.50 - - [18/Aug/2026:23:02:01 +0000] "GET /index.html HTTP/1.1" 200 2013 "-" "Mozilla/5.0"
+192.168.1.51 - - [18/Aug/2026:23:02:03 +0000] "GET /api/v1/products HTTP/1.1" 200 2050 "-" "Mozilla/5.0"
+192.168.1.52 - - [18/Aug/2026:23:02:05 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.53 - - [18/Aug/2026:23:02:07 +0000] "POST /api/v1/login HTTP/1.1" 200 2124 "-" "Mozilla/5.0"
+192.168.1.54 - - [18/Aug/2026:23:02:09 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:02:11 [INFO] Background job completed successfully in 212ms
+192.168.1.56 - - [18/Aug/2026:23:02:13 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:02:15 [INFO] Background job completed successfully in 238ms
+192.168.1.58 - - [18/Aug/2026:23:02:17 +0000] "GET /index.html HTTP/1.1" 200 2309 "-" "Mozilla/5.0"
+192.168.1.59 - - [18/Aug/2026:23:02:19 +0000] "GET /api/v1/products HTTP/1.1" 200 2346 "-" "Mozilla/5.0"
+192.168.1.60 - - [18/Aug/2026:23:02:21 +0000] "POST /api/v1/login HTTP/1.1" 200 2383 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:02:23 +0000] "POST /admin/upload HTTP/1.1" 500 99999999 "-" "ExploitBot"
+192.168.1.62 - - [18/Aug/2026:23:02:25 +0000] "GET /index.html HTTP/1.1" 200 2457 "-" "Mozilla/5.0"
+192.168.1.63 - - [18/Aug/2026:23:02:27 +0000] "GET /api/v1/products HTTP/1.1" 200 2494 "-" "Mozilla/5.0"
+192.168.1.64 - - [18/Aug/2026:23:02:29 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:02:31 [INFO] Background job completed successfully in 92ms
+192.168.1.66 - - [18/Aug/2026:23:02:33 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.67 - - [18/Aug/2026:23:02:35 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.68 - - [18/Aug/2026:23:02:37 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.69 - - [18/Aug/2026:23:02:39 +0000] "GET /api/v1/products HTTP/1.1" 200 2716 "-" "Mozilla/5.0"
+192.168.1.70 - - [18/Aug/2026:23:02:41 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:02:43 [INFO] Background job completed successfully in 170ms
+192.168.1.72 - - [18/Aug/2026:23:02:45 +0000] "POST /api/v1/login HTTP/1.1" 200 2827 "-" "Mozilla/5.0"
+192.168.1.73 - - [18/Aug/2026:23:02:47 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.74 - - [18/Aug/2026:23:02:49 +0000] "GET /api/v1/products HTTP/1.1" 200 2901 "-" "Mozilla/5.0"
+192.168.1.75 - - [18/Aug/2026:23:02:51 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.76 - - [18/Aug/2026:23:02:53 +0000] "GET /index.html HTTP/1.1" 200 2975 "-" "Mozilla/5.0"
+2026-08-18 23:02:55 [INFO] Background job completed successfully in 248ms
+192.168.1.78 - - [18/Aug/2026:23:02:57 +0000] "POST /api/v1/login HTTP/1.1" 200 3049 "-" "Mozilla/5.0"
+192.168.1.79 - - [18/Aug/2026:23:02:59 +0000] "GET /api/v1/products HTTP/1.1" 200 3086 "-" "Mozilla/5.0"
+192.168.1.80 - - [18/Aug/2026:23:03:01 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:03:03 [CRITICAL] FATAL: OutOfMemoryError in worker thread pool! Heap dump generated.
+2026-08-18 23:03:05 [INFO] Background job completed successfully in 63ms
+192.168.1.83 - - [18/Aug/2026:23:03:07 +0000] "GET /api/v1/products HTTP/1.1" 200 3234 "-" "Mozilla/5.0"
+192.168.1.84 - - [18/Aug/2026:23:03:09 +0000] "GET /index.html HTTP/1.1" 200 3271 "-" "Mozilla/5.0"
+192.168.1.85 - - [18/Aug/2026:23:03:11 +0000] "POST /api/v1/login HTTP/1.1" 200 3308 "-" "Mozilla/5.0"
+192.168.1.86 - - [18/Aug/2026:23:03:13 +0000] "GET /index.html HTTP/1.1" 200 3345 "-" "Mozilla/5.0"
+192.168.1.87 - - [18/Aug/2026:23:03:15 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.88 - - [18/Aug/2026:23:03:17 +0000] "GET /api/v1/products HTTP/1.1" 200 3419 "-" "Mozilla/5.0"
+192.168.1.89 - - [18/Aug/2026:23:03:19 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.90 - - [18/Aug/2026:23:03:21 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.91 - - [18/Aug/2026:23:03:23 +0000] "POST /api/v1/login HTTP/1.1" 200 3530 "-" "Mozilla/5.0"
+192.168.1.92 - - [18/Aug/2026:23:03:25 +0000] "GET /api/v1/products HTTP/1.1" 200 3567 "-" "Mozilla/5.0"
+192.168.1.93 - - [18/Aug/2026:23:03:27 +0000] "GET /index.html HTTP/1.1" 200 3604 "-" "Mozilla/5.0"
+2026-08-18 23:03:29 [INFO] Background job completed successfully in 219ms
+2026-08-18 23:03:31 [INFO] Background job completed successfully in 232ms
+192.168.1.96 - - [18/Aug/2026:23:03:33 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.97 - - [18/Aug/2026:23:03:35 +0000] "POST /api/v1/login HTTP/1.1" 200 3752 "-" "Mozilla/5.0"
+192.168.1.98 - - [18/Aug/2026:23:03:37 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.99 - - [18/Aug/2026:23:03:39 +0000] "GET /index.html HTTP/1.1" 200 3826 "-" "Mozilla/5.0"
+192.168.1.100 - - [18/Aug/2026:23:03:41 +0000] "GET /api/v1/products HTTP/1.1" 200 3863 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:03:43 +0000] "GET /api/search?q=' OR 1=1 -- HTTP/1.1" 500 4096 "-" "Python-urllib/3.8"
+192.168.1.102 - - [18/Aug/2026:23:03:45 +0000] "POST /api/v1/login HTTP/1.1" 200 3937 "-" "Mozilla/5.0"
+192.168.1.103 - - [18/Aug/2026:23:03:47 +0000] "POST /api/v1/login HTTP/1.1" 200 3974 "-" "Mozilla/5.0"
+2026-08-18 23:03:49 [INFO] Background job completed successfully in 99ms
+192.168.1.105 - - [18/Aug/2026:23:03:51 +0000] "GET /index.html HTTP/1.1" 200 4048 "-" "Mozilla/5.0"
+2026-08-18 23:03:53 [INFO] Background job completed successfully in 125ms
+192.168.1.107 - - [18/Aug/2026:23:03:55 +0000] "GET /api/v1/products HTTP/1.1" 200 4122 "-" "Mozilla/5.0"
+192.168.1.108 - - [18/Aug/2026:23:03:57 +0000] "POST /api/v1/login HTTP/1.1" 200 4159 "-" "Mozilla/5.0"
+2026-08-18 23:03:59 [INFO] Background job completed successfully in 164ms
+192.168.1.110 - - [18/Aug/2026:23:04:01 +0000] "POST /api/v1/login HTTP/1.1" 200 233 "-" "Mozilla/5.0"
+2026-08-18 23:04:03 [INFO] Background job completed successfully in 190ms
+192.168.1.112 - - [18/Aug/2026:23:04:05 +0000] "POST /api/v1/login HTTP/1.1" 200 307 "-" "Mozilla/5.0"
+192.168.1.113 - - [18/Aug/2026:23:04:07 +0000] "GET /api/v1/products HTTP/1.1" 200 344 "-" "Mozilla/5.0"
+2026-08-18 23:04:09 [INFO] Background job completed successfully in 229ms
+192.168.1.115 - - [18/Aug/2026:23:04:11 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.116 - - [18/Aug/2026:23:04:13 +0000] "GET /api/v1/products HTTP/1.1" 200 455 "-" "Mozilla/5.0"
+192.168.1.117 - - [18/Aug/2026:23:04:15 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.118 - - [18/Aug/2026:23:04:17 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:04:19 [INFO] Background job completed successfully in 44ms
+2026-08-18 23:04:21 [INFO] Background job completed successfully in 57ms
+2026-08-18 23:04:23 [CRITICAL] FATAL: OutOfMemoryError in worker thread pool! Heap dump generated.
+192.168.1.122 - - [18/Aug/2026:23:04:25 +0000] "GET /index.html HTTP/1.1" 200 677 "-" "Mozilla/5.0"
+192.168.1.123 - - [18/Aug/2026:23:04:27 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:04:29 [INFO] Background job completed successfully in 109ms
+192.168.1.125 - - [18/Aug/2026:23:04:31 +0000] "GET /api/v1/products HTTP/1.1" 200 788 "-" "Mozilla/5.0"
+192.168.1.126 - - [18/Aug/2026:23:04:33 +0000] "GET /api/v1/products HTTP/1.1" 200 825 "-" "Mozilla/5.0"
+192.168.1.127 - - [18/Aug/2026:23:04:35 +0000] "GET /api/v1/products HTTP/1.1" 200 862 "-" "Mozilla/5.0"
+2026-08-18 23:04:37 [INFO] Background job completed successfully in 161ms
+192.168.1.129 - - [18/Aug/2026:23:04:39 +0000] "GET /api/v1/products HTTP/1.1" 200 936 "-" "Mozilla/5.0"
+192.168.1.130 - - [18/Aug/2026:23:04:41 +0000] "GET /index.html HTTP/1.1" 200 973 "-" "Mozilla/5.0"
+192.168.1.131 - - [18/Aug/2026:23:04:43 +0000] "GET /api/v1/products HTTP/1.1" 200 1010 "-" "Mozilla/5.0"
+192.168.1.132 - - [18/Aug/2026:23:04:45 +0000] "GET /api/v1/products HTTP/1.1" 200 1047 "-" "Mozilla/5.0"
+192.168.1.133 - - [18/Aug/2026:23:04:47 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.134 - - [18/Aug/2026:23:04:49 +0000] "GET /index.html HTTP/1.1" 200 1121 "-" "Mozilla/5.0"
+192.168.1.135 - - [18/Aug/2026:23:04:51 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.136 - - [18/Aug/2026:23:04:53 +0000] "GET /index.html HTTP/1.1" 200 1195 "-" "Mozilla/5.0"
+192.168.1.137 - - [18/Aug/2026:23:04:55 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.138 - - [18/Aug/2026:23:04:57 +0000] "GET /api/v1/products HTTP/1.1" 200 1269 "-" "Mozilla/5.0"
+192.168.1.139 - - [18/Aug/2026:23:04:59 +0000] "GET /api/v1/products HTTP/1.1" 200 1306 "-" "Mozilla/5.0"
+192.168.1.140 - - [18/Aug/2026:23:05:01 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:05:03 [ERROR] Unauthorized access attempt detected from IP 192.168.99.99 on port 22
+192.168.1.142 - - [18/Aug/2026:23:05:05 +0000] "POST /api/v1/login HTTP/1.1" 200 1417 "-" "Mozilla/5.0"
+192.168.1.143 - - [18/Aug/2026:23:05:07 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:05:09 [INFO] Background job completed successfully in 119ms
+192.168.1.145 - - [18/Aug/2026:23:05:11 +0000] "POST /api/v1/login HTTP/1.1" 200 1528 "-" "Mozilla/5.0"
+192.168.1.146 - - [18/Aug/2026:23:05:13 +0000] "POST /api/v1/login HTTP/1.1" 200 1565 "-" "Mozilla/5.0"
+192.168.1.147 - - [18/Aug/2026:23:05:15 +0000] "GET /index.html HTTP/1.1" 200 1602 "-" "Mozilla/5.0"
+192.168.1.148 - - [18/Aug/2026:23:05:17 +0000] "GET /index.html HTTP/1.1" 200 1639 "-" "Mozilla/5.0"
+2026-08-18 23:05:19 [INFO] Background job completed successfully in 184ms
+2026-08-18 23:05:21 [INFO] Background job completed successfully in 197ms
+192.168.1.151 - - [18/Aug/2026:23:05:23 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:05:25 [INFO] Background job completed successfully in 223ms
+192.168.1.153 - - [18/Aug/2026:23:05:27 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:05:29 [INFO] Background job completed successfully in 249ms
+2026-08-18 23:05:31 [INFO] Background job completed successfully in 12ms
+192.168.1.156 - - [18/Aug/2026:23:05:33 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.157 - - [18/Aug/2026:23:05:35 +0000] "GET /index.html HTTP/1.1" 200 1972 "-" "Mozilla/5.0"
+192.168.1.158 - - [18/Aug/2026:23:05:37 +0000] "GET /index.html HTTP/1.1" 200 2009 "-" "Mozilla/5.0"
+2026-08-18 23:05:39 [INFO] Background job completed successfully in 64ms
+2026-08-18 23:05:41 [INFO] Background job completed successfully in 77ms
+10.0.0.99 - - [18/Aug/2026:23:05:43 +0000] "GET /api/search?q=' OR 1=1 -- HTTP/1.1" 500 4096 "-" "Python-urllib/3.8"
+2026-08-18 23:05:45 [INFO] Background job completed successfully in 103ms
+192.168.1.163 - - [18/Aug/2026:23:05:47 +0000] "POST /api/v1/login HTTP/1.1" 200 2194 "-" "Mozilla/5.0"
+192.168.1.164 - - [18/Aug/2026:23:05:49 +0000] "GET /index.html HTTP/1.1" 200 2231 "-" "Mozilla/5.0"
+192.168.1.165 - - [18/Aug/2026:23:05:51 +0000] "POST /api/v1/login HTTP/1.1" 200 2268 "-" "Mozilla/5.0"
+192.168.1.166 - - [18/Aug/2026:23:05:53 +0000] "POST /api/v1/login HTTP/1.1" 200 2305 "-" "Mozilla/5.0"
+192.168.1.167 - - [18/Aug/2026:23:05:55 +0000] "GET /api/v1/products HTTP/1.1" 200 2342 "-" "Mozilla/5.0"
+192.168.1.168 - - [18/Aug/2026:23:05:57 +0000] "GET /api/v1/products HTTP/1.1" 200 2379 "-" "Mozilla/5.0"
+192.168.1.169 - - [18/Aug/2026:23:05:59 +0000] "POST /api/v1/login HTTP/1.1" 200 2416 "-" "Mozilla/5.0"
+192.168.1.170 - - [18/Aug/2026:23:06:01 +0000] "GET /api/v1/products HTTP/1.1" 200 2453 "-" "Mozilla/5.0"
+192.168.1.171 - - [18/Aug/2026:23:06:03 +0000] "GET /index.html HTTP/1.1" 200 2490 "-" "Mozilla/5.0"
+192.168.1.172 - - [18/Aug/2026:23:06:05 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.173 - - [18/Aug/2026:23:06:07 +0000] "GET /api/v1/products HTTP/1.1" 200 2564 "-" "Mozilla/5.0"
+192.168.1.174 - - [18/Aug/2026:23:06:09 +0000] "GET /index.html HTTP/1.1" 200 2601 "-" "Mozilla/5.0"
+192.168.1.175 - - [18/Aug/2026:23:06:11 +0000] "GET /index.html HTTP/1.1" 200 2638 "-" "Mozilla/5.0"
+192.168.1.176 - - [18/Aug/2026:23:06:13 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.177 - - [18/Aug/2026:23:06:15 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:06:17 [INFO] Background job completed successfully in 61ms
+192.168.1.179 - - [18/Aug/2026:23:06:19 +0000] "GET /index.html HTTP/1.1" 200 2786 "-" "Mozilla/5.0"
+192.168.1.180 - - [18/Aug/2026:23:06:21 +0000] "GET /index.html HTTP/1.1" 200 2823 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:06:23 +0000] "POST /admin/upload HTTP/1.1" 500 99999999 "-" "ExploitBot"
+192.168.1.182 - - [18/Aug/2026:23:06:25 +0000] "GET /api/v1/products HTTP/1.1" 200 2897 "-" "Mozilla/5.0"
+192.168.1.183 - - [18/Aug/2026:23:06:27 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.184 - - [18/Aug/2026:23:06:29 +0000] "GET /api/v1/products HTTP/1.1" 200 2971 "-" "Mozilla/5.0"
+192.168.1.185 - - [18/Aug/2026:23:06:31 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:06:33 [INFO] Background job completed successfully in 165ms
+192.168.1.187 - - [18/Aug/2026:23:06:35 +0000] "GET /index.html HTTP/1.1" 200 3082 "-" "Mozilla/5.0"
+192.168.1.188 - - [18/Aug/2026:23:06:37 +0000] "GET /index.html HTTP/1.1" 200 3119 "-" "Mozilla/5.0"
+192.168.1.189 - - [18/Aug/2026:23:06:39 +0000] "POST /api/v1/login HTTP/1.1" 200 3156 "-" "Mozilla/5.0"
+192.168.1.190 - - [18/Aug/2026:23:06:41 +0000] "POST /api/v1/login HTTP/1.1" 200 3193 "-" "Mozilla/5.0"
+192.168.1.191 - - [18/Aug/2026:23:06:43 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.192 - - [18/Aug/2026:23:06:45 +0000] "GET /api/v1/products HTTP/1.1" 200 3267 "-" "Mozilla/5.0"
+192.168.1.193 - - [18/Aug/2026:23:06:47 +0000] "GET /api/v1/products HTTP/1.1" 200 3304 "-" "Mozilla/5.0"
+192.168.1.194 - - [18/Aug/2026:23:06:49 +0000] "POST /api/v1/login HTTP/1.1" 200 3341 "-" "Mozilla/5.0"
+2026-08-18 23:06:51 [INFO] Background job completed successfully in 32ms
+192.168.1.196 - - [18/Aug/2026:23:06:53 +0000] "GET /api/v1/products HTTP/1.1" 200 3415 "-" "Mozilla/5.0"
+192.168.1.197 - - [18/Aug/2026:23:06:55 +0000] "POST /api/v1/login HTTP/1.1" 200 3452 "-" "Mozilla/5.0"
+192.168.1.198 - - [18/Aug/2026:23:06:57 +0000] "GET /api/v1/products HTTP/1.1" 200 3489 "-" "Mozilla/5.0"
+192.168.1.199 - - [18/Aug/2026:23:06:59 +0000] "GET /index.html HTTP/1.1" 200 3526 "-" "Mozilla/5.0"
+192.168.1.200 - - [18/Aug/2026:23:07:01 +0000] "POST /api/v1/login HTTP/1.1" 200 3563 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:07:03 +0000] "GET /../../etc/passwd HTTP/1.1" 403 512 "-" "CustomScanner/1.0"
+192.168.1.2 - - [18/Aug/2026:23:07:05 +0000] "GET /index.html HTTP/1.1" 200 3637 "-" "Mozilla/5.0"
+192.168.1.3 - - [18/Aug/2026:23:07:07 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.4 - - [18/Aug/2026:23:07:09 +0000] "POST /api/v1/login HTTP/1.1" 200 3711 "-" "Mozilla/5.0"
+192.168.1.5 - - [18/Aug/2026:23:07:11 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.6 - - [18/Aug/2026:23:07:13 +0000] "GET /api/v1/products HTTP/1.1" 200 3785 "-" "Mozilla/5.0"
+192.168.1.7 - - [18/Aug/2026:23:07:15 +0000] "GET /api/v1/products HTTP/1.1" 200 3822 "-" "Mozilla/5.0"
+192.168.1.8 - - [18/Aug/2026:23:07:17 +0000] "GET /api/v1/products HTTP/1.1" 200 3859 "-" "Mozilla/5.0"
+192.168.1.9 - - [18/Aug/2026:23:07:19 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:07:21 [INFO] Background job completed successfully in 227ms
+192.168.1.11 - - [18/Aug/2026:23:07:23 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.12 - - [18/Aug/2026:23:07:25 +0000] "GET /api/v1/products HTTP/1.1" 200 4007 "-" "Mozilla/5.0"
+192.168.1.13 - - [18/Aug/2026:23:07:27 +0000] "POST /api/v1/login HTTP/1.1" 200 4044 "-" "Mozilla/5.0"
+192.168.1.14 - - [18/Aug/2026:23:07:29 +0000] "GET /api/v1/products HTTP/1.1" 200 4081 "-" "Mozilla/5.0"
+192.168.1.15 - - [18/Aug/2026:23:07:31 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.16 - - [18/Aug/2026:23:07:33 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.17 - - [18/Aug/2026:23:07:35 +0000] "POST /api/v1/login HTTP/1.1" 200 4192 "-" "Mozilla/5.0"
+2026-08-18 23:07:37 [INFO] Background job completed successfully in 81ms
+192.168.1.19 - - [18/Aug/2026:23:07:39 +0000] "GET /index.html HTTP/1.1" 200 266 "-" "Mozilla/5.0"
+192.168.1.20 - - [18/Aug/2026:23:07:41 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:07:43 +0000] "GET /../../etc/passwd HTTP/1.1" 403 512 "-" "CustomScanner/1.0"
+192.168.1.22 - - [18/Aug/2026:23:07:45 +0000] "POST /api/v1/login HTTP/1.1" 200 377 "-" "Mozilla/5.0"
+192.168.1.23 - - [18/Aug/2026:23:07:47 +0000] "GET /index.html HTTP/1.1" 200 414 "-" "Mozilla/5.0"
+192.168.1.24 - - [18/Aug/2026:23:07:49 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.25 - - [18/Aug/2026:23:07:51 +0000] "POST /api/v1/login HTTP/1.1" 200 488 "-" "Mozilla/5.0"
+2026-08-18 23:07:53 [INFO] Background job completed successfully in 185ms
+192.168.1.27 - - [18/Aug/2026:23:07:55 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.28 - - [18/Aug/2026:23:07:57 +0000] "POST /api/v1/login HTTP/1.1" 200 599 "-" "Mozilla/5.0"
+2026-08-18 23:07:59 [INFO] Background job completed successfully in 224ms
+2026-08-18 23:08:01 [INFO] Background job completed successfully in 237ms
+2026-08-18 23:08:03 [INFO] Background job completed successfully in 250ms
+192.168.1.32 - - [18/Aug/2026:23:08:05 +0000] "GET /index.html HTTP/1.1" 200 747 "-" "Mozilla/5.0"
+2026-08-18 23:08:07 [INFO] Background job completed successfully in 26ms
+192.168.1.34 - - [18/Aug/2026:23:08:09 +0000] "POST /api/v1/login HTTP/1.1" 200 821 "-" "Mozilla/5.0"
+192.168.1.35 - - [18/Aug/2026:23:08:11 +0000] "GET /index.html HTTP/1.1" 200 858 "-" "Mozilla/5.0"
+192.168.1.36 - - [18/Aug/2026:23:08:13 +0000] "GET /index.html HTTP/1.1" 200 895 "-" "Mozilla/5.0"
+2026-08-18 23:08:15 [INFO] Background job completed successfully in 78ms
+192.168.1.38 - - [18/Aug/2026:23:08:17 +0000] "GET /api/v1/products HTTP/1.1" 200 969 "-" "Mozilla/5.0"
+192.168.1.39 - - [18/Aug/2026:23:08:19 +0000] "GET /api/v1/products HTTP/1.1" 200 1006 "-" "Mozilla/5.0"
+192.168.1.40 - - [18/Aug/2026:23:08:21 +0000] "GET /api/v1/products HTTP/1.1" 200 1043 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:08:23 +0000] "POST /admin/upload HTTP/1.1" 500 99999999 "-" "ExploitBot"
+192.168.1.42 - - [18/Aug/2026:23:08:25 +0000] "GET /api/v1/products HTTP/1.1" 200 1117 "-" "Mozilla/5.0"
+192.168.1.43 - - [18/Aug/2026:23:08:27 +0000] "GET /api/v1/products HTTP/1.1" 200 1154 "-" "Mozilla/5.0"
+192.168.1.44 - - [18/Aug/2026:23:08:29 +0000] "GET /index.html HTTP/1.1" 200 1191 "-" "Mozilla/5.0"
+2026-08-18 23:08:31 [INFO] Background job completed successfully in 182ms
+192.168.1.46 - - [18/Aug/2026:23:08:33 +0000] "POST /api/v1/login HTTP/1.1" 200 1265 "-" "Mozilla/5.0"
+2026-08-18 23:08:35 [INFO] Background job completed successfully in 208ms
+192.168.1.48 - - [18/Aug/2026:23:08:37 +0000] "POST /api/v1/login HTTP/1.1" 200 1339 "-" "Mozilla/5.0"
+192.168.1.49 - - [18/Aug/2026:23:08:39 +0000] "GET /index.html HTTP/1.1" 200 1376 "-" "Mozilla/5.0"
+192.168.1.50 - - [18/Aug/2026:23:08:41 +0000] "GET /api/v1/products HTTP/1.1" 200 1413 "-" "Mozilla/5.0"
+192.168.1.51 - - [18/Aug/2026:23:08:43 +0000] "GET /api/v1/products HTTP/1.1" 200 1450 "-" "Mozilla/5.0"
+2026-08-18 23:08:45 [INFO] Background job completed successfully in 23ms
+192.168.1.53 - - [18/Aug/2026:23:08:47 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.54 - - [18/Aug/2026:23:08:49 +0000] "GET /index.html HTTP/1.1" 200 1561 "-" "Mozilla/5.0"
+192.168.1.55 - - [18/Aug/2026:23:08:51 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.56 - - [18/Aug/2026:23:08:53 +0000] "GET /index.html HTTP/1.1" 200 1635 "-" "Mozilla/5.0"
+2026-08-18 23:08:55 [INFO] Background job completed successfully in 88ms
+192.168.1.58 - - [18/Aug/2026:23:08:57 +0000] "POST /api/v1/login HTTP/1.1" 200 1709 "-" "Mozilla/5.0"
+192.168.1.59 - - [18/Aug/2026:23:08:59 +0000] "POST /api/v1/login HTTP/1.1" 200 1746 "-" "Mozilla/5.0"
+192.168.1.60 - - [18/Aug/2026:23:09:01 +0000] "GET /index.html HTTP/1.1" 200 1783 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:09:03 +0000] "POST /admin/upload HTTP/1.1" 500 99999999 "-" "ExploitBot"
+192.168.1.62 - - [18/Aug/2026:23:09:05 +0000] "GET /api/v1/products HTTP/1.1" 200 1857 "-" "Mozilla/5.0"
+2026-08-18 23:09:07 [INFO] Background job completed successfully in 166ms
+192.168.1.64 - - [18/Aug/2026:23:09:09 +0000] "GET /api/v1/products HTTP/1.1" 200 1931 "-" "Mozilla/5.0"
+2026-08-18 23:09:11 [INFO] Background job completed successfully in 192ms
+192.168.1.66 - - [18/Aug/2026:23:09:13 +0000] "POST /api/v1/login HTTP/1.1" 200 2005 "-" "Mozilla/5.0"
+192.168.1.67 - - [18/Aug/2026:23:09:15 +0000] "GET /index.html HTTP/1.1" 200 2042 "-" "Mozilla/5.0"
+192.168.1.68 - - [18/Aug/2026:23:09:17 +0000] "GET /api/v1/products HTTP/1.1" 200 2079 "-" "Mozilla/5.0"
+192.168.1.69 - - [18/Aug/2026:23:09:19 +0000] "GET /api/v1/products HTTP/1.1" 200 2116 "-" "Mozilla/5.0"
+192.168.1.70 - - [18/Aug/2026:23:09:21 +0000] "GET /index.html HTTP/1.1" 200 2153 "-" "Mozilla/5.0"
+2026-08-18 23:09:23 [INFO] Background job completed successfully in 20ms
+192.168.1.72 - - [18/Aug/2026:23:09:25 +0000] "GET /index.html HTTP/1.1" 200 2227 "-" "Mozilla/5.0"
+192.168.1.73 - - [18/Aug/2026:23:09:27 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.74 - - [18/Aug/2026:23:09:29 +0000] "GET /index.html HTTP/1.1" 200 2301 "-" "Mozilla/5.0"
+2026-08-18 23:09:31 [INFO] Background job completed successfully in 72ms
+192.168.1.76 - - [18/Aug/2026:23:09:33 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.77 - - [18/Aug/2026:23:09:35 +0000] "POST /api/v1/login HTTP/1.1" 200 2412 "-" "Mozilla/5.0"
+192.168.1.78 - - [18/Aug/2026:23:09:37 +0000] "GET /api/v1/products HTTP/1.1" 200 2449 "-" "Mozilla/5.0"
+192.168.1.79 - - [18/Aug/2026:23:09:39 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:09:41 [INFO] Background job completed successfully in 137ms
+10.0.0.99 - - [18/Aug/2026:23:09:43 +0000] "GET /../../etc/passwd HTTP/1.1" 403 512 "-" "CustomScanner/1.0"
+192.168.1.82 - - [18/Aug/2026:23:09:45 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:09:47 [INFO] Background job completed successfully in 176ms
+2026-08-18 23:09:49 [INFO] Background job completed successfully in 189ms
+2026-08-18 23:09:51 [INFO] Background job completed successfully in 202ms
+192.168.1.86 - - [18/Aug/2026:23:09:53 +0000] "GET /api/v1/products HTTP/1.1" 200 2745 "-" "Mozilla/5.0"
+192.168.1.87 - - [18/Aug/2026:23:09:55 +0000] "GET /api/v1/products HTTP/1.1" 200 2782 "-" "Mozilla/5.0"
+192.168.1.88 - - [18/Aug/2026:23:09:57 +0000] "GET /index.html HTTP/1.1" 200 2819 "-" "Mozilla/5.0"
+192.168.1.89 - - [18/Aug/2026:23:09:59 +0000] "POST /api/v1/login HTTP/1.1" 200 2856 "-" "Mozilla/5.0"
+192.168.1.90 - - [18/Aug/2026:23:10:01 +0000] "POST /api/v1/login HTTP/1.1" 200 2893 "-" "Mozilla/5.0"
+192.168.1.91 - - [18/Aug/2026:23:10:03 +0000] "GET /index.html HTTP/1.1" 200 2930 "-" "Mozilla/5.0"
+192.168.1.92 - - [18/Aug/2026:23:10:05 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.93 - - [18/Aug/2026:23:10:07 +0000] "GET /index.html HTTP/1.1" 200 3004 "-" "Mozilla/5.0"
+192.168.1.94 - - [18/Aug/2026:23:10:09 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.95 - - [18/Aug/2026:23:10:11 +0000] "GET /api/v1/products HTTP/1.1" 200 3078 "-" "Mozilla/5.0"
+192.168.1.96 - - [18/Aug/2026:23:10:13 +0000] "GET /index.html HTTP/1.1" 200 3115 "-" "Mozilla/5.0"
+192.168.1.97 - - [18/Aug/2026:23:10:15 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:10:17 [INFO] Background job completed successfully in 121ms
+192.168.1.99 - - [18/Aug/2026:23:10:19 +0000] "POST /api/v1/login HTTP/1.1" 200 3226 "-" "Mozilla/5.0"
+2026-08-18 23:10:21 [INFO] Background job completed successfully in 147ms
+2026-08-18 23:10:23 [ERROR] Unauthorized access attempt detected from IP 192.168.99.99 on port 22
+192.168.1.102 - - [18/Aug/2026:23:10:25 +0000] "GET /index.html HTTP/1.1" 200 3337 "-" "Mozilla/5.0"
+192.168.1.103 - - [18/Aug/2026:23:10:27 +0000] "GET /api/v1/products HTTP/1.1" 200 3374 "-" "Mozilla/5.0"
+192.168.1.104 - - [18/Aug/2026:23:10:29 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:10:31 [INFO] Background job completed successfully in 212ms
+2026-08-18 23:10:33 [INFO] Background job completed successfully in 225ms
+192.168.1.107 - - [18/Aug/2026:23:10:35 +0000] "POST /api/v1/login HTTP/1.1" 200 3522 "-" "Mozilla/5.0"
+2026-08-18 23:10:37 [INFO] Background job completed successfully in 251ms
+192.168.1.109 - - [18/Aug/2026:23:10:39 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.110 - - [18/Aug/2026:23:10:41 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.111 - - [18/Aug/2026:23:10:43 +0000] "GET /api/v1/products HTTP/1.1" 200 3670 "-" "Mozilla/5.0"
+192.168.1.112 - - [18/Aug/2026:23:10:45 +0000] "POST /api/v1/login HTTP/1.1" 200 3707 "-" "Mozilla/5.0"
+192.168.1.113 - - [18/Aug/2026:23:10:47 +0000] "GET /index.html HTTP/1.1" 200 3744 "-" "Mozilla/5.0"
+192.168.1.114 - - [18/Aug/2026:23:10:49 +0000] "GET /index.html HTTP/1.1" 200 3781 "-" "Mozilla/5.0"
+192.168.1.115 - - [18/Aug/2026:23:10:51 +0000] "GET /api/v1/products HTTP/1.1" 200 3818 "-" "Mozilla/5.0"
+2026-08-18 23:10:53 [INFO] Background job completed successfully in 105ms
+192.168.1.117 - - [18/Aug/2026:23:10:55 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.118 - - [18/Aug/2026:23:10:57 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:10:59 [INFO] Background job completed successfully in 144ms
+192.168.1.120 - - [18/Aug/2026:23:11:01 +0000] "GET /index.html HTTP/1.1" 200 4003 "-" "Mozilla/5.0"
+2026-08-18 23:11:03 [ERROR] Unauthorized access attempt detected from IP 192.168.99.99 on port 22
+192.168.1.122 - - [18/Aug/2026:23:11:05 +0000] "GET /index.html HTTP/1.1" 200 4077 "-" "Mozilla/5.0"
+2026-08-18 23:11:07 [INFO] Background job completed successfully in 196ms
+192.168.1.124 - - [18/Aug/2026:23:11:09 +0000] "POST /api/v1/login HTTP/1.1" 200 4151 "-" "Mozilla/5.0"
+192.168.1.125 - - [18/Aug/2026:23:11:11 +0000] "GET /index.html HTTP/1.1" 200 4188 "-" "Mozilla/5.0"
+192.168.1.126 - - [18/Aug/2026:23:11:13 +0000] "POST /api/v1/login HTTP/1.1" 200 225 "-" "Mozilla/5.0"
+192.168.1.127 - - [18/Aug/2026:23:11:15 +0000] "GET /index.html HTTP/1.1" 200 262 "-" "Mozilla/5.0"
+192.168.1.128 - - [18/Aug/2026:23:11:17 +0000] "GET /index.html HTTP/1.1" 200 299 "-" "Mozilla/5.0"
+192.168.1.129 - - [18/Aug/2026:23:11:19 +0000] "POST /api/v1/login HTTP/1.1" 200 336 "-" "Mozilla/5.0"
+192.168.1.130 - - [18/Aug/2026:23:11:21 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.131 - - [18/Aug/2026:23:11:23 +0000] "GET /api/v1/products HTTP/1.1" 200 410 "-" "Mozilla/5.0"
+2026-08-18 23:11:25 [INFO] Background job completed successfully in 63ms
+2026-08-18 23:11:27 [INFO] Background job completed successfully in 76ms
+192.168.1.134 - - [18/Aug/2026:23:11:29 +0000] "POST /api/v1/login HTTP/1.1" 200 521 "-" "Mozilla/5.0"
+192.168.1.135 - - [18/Aug/2026:23:11:31 +0000] "GET /index.html HTTP/1.1" 200 558 "-" "Mozilla/5.0"
+2026-08-18 23:11:33 [INFO] Background job completed successfully in 115ms
+192.168.1.137 - - [18/Aug/2026:23:11:35 +0000] "POST /api/v1/login HTTP/1.1" 200 632 "-" "Mozilla/5.0"
+192.168.1.138 - - [18/Aug/2026:23:11:37 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.139 - - [18/Aug/2026:23:11:39 +0000] "POST /api/v1/login HTTP/1.1" 200 706 "-" "Mozilla/5.0"
+192.168.1.140 - - [18/Aug/2026:23:11:41 +0000] "GET /index.html HTTP/1.1" 200 743 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:11:43 +0000] "GET /api/search?q=' OR 1=1 -- HTTP/1.1" 500 4096 "-" "Python-urllib/3.8"
+192.168.1.142 - - [18/Aug/2026:23:11:45 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.143 - - [18/Aug/2026:23:11:47 +0000] "GET /index.html HTTP/1.1" 200 854 "-" "Mozilla/5.0"
+192.168.1.144 - - [18/Aug/2026:23:11:49 +0000] "GET /api/v1/products HTTP/1.1" 200 891 "-" "Mozilla/5.0"
+2026-08-18 23:11:51 [INFO] Background job completed successfully in 232ms
+192.168.1.146 - - [18/Aug/2026:23:11:53 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.147 - - [18/Aug/2026:23:11:55 +0000] "POST /api/v1/login HTTP/1.1" 200 1002 "-" "Mozilla/5.0"
+192.168.1.148 - - [18/Aug/2026:23:11:57 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.149 - - [18/Aug/2026:23:11:59 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.150 - - [18/Aug/2026:23:12:01 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.151 - - [18/Aug/2026:23:12:03 +0000] "GET /api/v1/products HTTP/1.1" 200 1150 "-" "Mozilla/5.0"
+192.168.1.152 - - [18/Aug/2026:23:12:05 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.153 - - [18/Aug/2026:23:12:07 +0000] "POST /api/v1/login HTTP/1.1" 200 1224 "-" "Mozilla/5.0"
+192.168.1.154 - - [18/Aug/2026:23:12:09 +0000] "GET /api/v1/products HTTP/1.1" 200 1261 "-" "Mozilla/5.0"
+192.168.1.155 - - [18/Aug/2026:23:12:11 +0000] "POST /api/v1/login HTTP/1.1" 200 1298 "-" "Mozilla/5.0"
+192.168.1.156 - - [18/Aug/2026:23:12:13 +0000] "GET /index.html HTTP/1.1" 200 1335 "-" "Mozilla/5.0"
+192.168.1.157 - - [18/Aug/2026:23:12:15 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.158 - - [18/Aug/2026:23:12:17 +0000] "GET /api/v1/products HTTP/1.1" 200 1409 "-" "Mozilla/5.0"
+2026-08-18 23:12:19 [INFO] Background job completed successfully in 164ms
+192.168.1.160 - - [18/Aug/2026:23:12:21 +0000] "GET /api/v1/products HTTP/1.1" 200 1483 "-" "Mozilla/5.0"
+2026-08-18 23:12:23 [ERROR] Unauthorized access attempt detected from IP 192.168.99.99 on port 22
+192.168.1.162 - - [18/Aug/2026:23:12:25 +0000] "GET /api/v1/products HTTP/1.1" 200 1557 "-" "Mozilla/5.0"
+2026-08-18 23:12:27 [INFO] Background job completed successfully in 216ms
+2026-08-18 23:12:29 [INFO] Background job completed successfully in 229ms
+192.168.1.165 - - [18/Aug/2026:23:12:31 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.166 - - [18/Aug/2026:23:12:33 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.167 - - [18/Aug/2026:23:12:35 +0000] "GET /api/v1/products HTTP/1.1" 200 1742 "-" "Mozilla/5.0"
+192.168.1.168 - - [18/Aug/2026:23:12:37 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.169 - - [18/Aug/2026:23:12:39 +0000] "POST /api/v1/login HTTP/1.1" 200 1816 "-" "Mozilla/5.0"
+192.168.1.170 - - [18/Aug/2026:23:12:41 +0000] "GET /api/v1/products HTTP/1.1" 200 1853 "-" "Mozilla/5.0"
+192.168.1.171 - - [18/Aug/2026:23:12:43 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:12:45 [INFO] Background job completed successfully in 83ms
+192.168.1.173 - - [18/Aug/2026:23:12:47 +0000] "GET /index.html HTTP/1.1" 200 1964 "-" "Mozilla/5.0"
+2026-08-18 23:12:49 [INFO] Background job completed successfully in 109ms
+192.168.1.175 - - [18/Aug/2026:23:12:51 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.176 - - [18/Aug/2026:23:12:53 +0000] "GET /index.html HTTP/1.1" 200 2075 "-" "Mozilla/5.0"
+192.168.1.177 - - [18/Aug/2026:23:12:55 +0000] "GET /index.html HTTP/1.1" 200 2112 "-" "Mozilla/5.0"
+192.168.1.178 - - [18/Aug/2026:23:12:57 +0000] "GET /api/v1/products HTTP/1.1" 200 2149 "-" "Mozilla/5.0"
+192.168.1.179 - - [18/Aug/2026:23:12:59 +0000] "POST /api/v1/login HTTP/1.1" 200 2186 "-" "Mozilla/5.0"
+192.168.1.180 - - [18/Aug/2026:23:13:01 +0000] "GET /api/v1/products HTTP/1.1" 200 2223 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:13:03 +0000] "POST /admin/upload HTTP/1.1" 500 99999999 "-" "ExploitBot"
+192.168.1.182 - - [18/Aug/2026:23:13:05 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.183 - - [18/Aug/2026:23:13:07 +0000] "POST /api/v1/login HTTP/1.1" 200 2334 "-" "Mozilla/5.0"
+192.168.1.184 - - [18/Aug/2026:23:13:09 +0000] "GET /api/v1/products HTTP/1.1" 200 2371 "-" "Mozilla/5.0"
+2026-08-18 23:13:11 [INFO] Background job completed successfully in 252ms
+192.168.1.186 - - [18/Aug/2026:23:13:13 +0000] "GET /index.html HTTP/1.1" 200 2445 "-" "Mozilla/5.0"
+2026-08-18 23:13:15 [INFO] Background job completed successfully in 28ms
+192.168.1.188 - - [18/Aug/2026:23:13:17 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.189 - - [18/Aug/2026:23:13:19 +0000] "POST /api/v1/login HTTP/1.1" 200 2556 "-" "Mozilla/5.0"
+192.168.1.190 - - [18/Aug/2026:23:13:21 +0000] "GET /api/v1/products HTTP/1.1" 200 2593 "-" "Mozilla/5.0"
+2026-08-18 23:13:23 [INFO] Background job completed successfully in 80ms
+2026-08-18 23:13:25 [INFO] Background job completed successfully in 93ms
+192.168.1.193 - - [18/Aug/2026:23:13:27 +0000] "GET /api/v1/products HTTP/1.1" 200 2704 "-" "Mozilla/5.0"
+192.168.1.194 - - [18/Aug/2026:23:13:29 +0000] "POST /api/v1/login HTTP/1.1" 200 2741 "-" "Mozilla/5.0"
+192.168.1.195 - - [18/Aug/2026:23:13:31 +0000] "GET /index.html HTTP/1.1" 200 2778 "-" "Mozilla/5.0"
+192.168.1.196 - - [18/Aug/2026:23:13:33 +0000] "GET /index.html HTTP/1.1" 200 2815 "-" "Mozilla/5.0"
+2026-08-18 23:13:35 [INFO] Background job completed successfully in 158ms
+2026-08-18 23:13:37 [INFO] Background job completed successfully in 171ms
+192.168.1.199 - - [18/Aug/2026:23:13:39 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.200 - - [18/Aug/2026:23:13:41 +0000] "POST /api/v1/login HTTP/1.1" 200 2963 "-" "Mozilla/5.0"
+2026-08-18 23:13:43 [ERROR] Unauthorized access attempt detected from IP 192.168.99.99 on port 22
+192.168.1.2 - - [18/Aug/2026:23:13:45 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:13:47 [INFO] Background job completed successfully in 236ms
+192.168.1.4 - - [18/Aug/2026:23:13:49 +0000] "POST /api/v1/login HTTP/1.1" 200 3111 "-" "Mozilla/5.0"
+2026-08-18 23:13:51 [INFO] Background job completed successfully in 12ms
+192.168.1.6 - - [18/Aug/2026:23:13:53 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:13:55 [INFO] Background job completed successfully in 38ms
+2026-08-18 23:13:57 [INFO] Background job completed successfully in 51ms
+192.168.1.9 - - [18/Aug/2026:23:13:59 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.10 - - [18/Aug/2026:23:14:01 +0000] "GET /api/v1/products HTTP/1.1" 200 3333 "-" "Mozilla/5.0"
+2026-08-18 23:14:03 [INFO] Background job completed successfully in 90ms
+2026-08-18 23:14:05 [INFO] Background job completed successfully in 103ms
+192.168.1.13 - - [18/Aug/2026:23:14:07 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.14 - - [18/Aug/2026:23:14:09 +0000] "GET /api/v1/products HTTP/1.1" 200 3481 "-" "Mozilla/5.0"
+192.168.1.15 - - [18/Aug/2026:23:14:11 +0000] "GET /api/v1/products HTTP/1.1" 200 3518 "-" "Mozilla/5.0"
+192.168.1.16 - - [18/Aug/2026:23:14:13 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.17 - - [18/Aug/2026:23:14:15 +0000] "POST /api/v1/login HTTP/1.1" 200 3592 "-" "Mozilla/5.0"
+192.168.1.18 - - [18/Aug/2026:23:14:17 +0000] "GET /api/v1/products HTTP/1.1" 200 3629 "-" "Mozilla/5.0"
+192.168.1.19 - - [18/Aug/2026:23:14:19 +0000] "POST /api/v1/login HTTP/1.1" 200 3666 "-" "Mozilla/5.0"
+192.168.1.20 - - [18/Aug/2026:23:14:21 +0000] "GET /api/v1/products HTTP/1.1" 200 3703 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:14:23 +0000] "GET /../../etc/passwd HTTP/1.1" 403 512 "-" "CustomScanner/1.0"
+192.168.1.22 - - [18/Aug/2026:23:14:25 +0000] "GET /api/v1/products HTTP/1.1" 200 3777 "-" "Mozilla/5.0"
+192.168.1.23 - - [18/Aug/2026:23:14:27 +0000] "POST /api/v1/login HTTP/1.1" 200 3814 "-" "Mozilla/5.0"
+192.168.1.24 - - [18/Aug/2026:23:14:29 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.25 - - [18/Aug/2026:23:14:31 +0000] "POST /api/v1/login HTTP/1.1" 200 3888 "-" "Mozilla/5.0"
+192.168.1.26 - - [18/Aug/2026:23:14:33 +0000] "GET /index.html HTTP/1.1" 200 3925 "-" "Mozilla/5.0"
+192.168.1.27 - - [18/Aug/2026:23:14:35 +0000] "GET /api/v1/products HTTP/1.1" 200 3962 "-" "Mozilla/5.0"
+192.168.1.28 - - [18/Aug/2026:23:14:37 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.29 - - [18/Aug/2026:23:14:39 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.30 - - [18/Aug/2026:23:14:41 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.31 - - [18/Aug/2026:23:14:43 +0000] "GET /index.html HTTP/1.1" 200 4110 "-" "Mozilla/5.0"
+192.168.1.32 - - [18/Aug/2026:23:14:45 +0000] "GET /api/v1/products HTTP/1.1" 200 4147 "-" "Mozilla/5.0"
+2026-08-18 23:14:47 [INFO] Background job completed successfully in 126ms
+192.168.1.34 - - [18/Aug/2026:23:14:49 +0000] "GET /index.html HTTP/1.1" 200 221 "-" "Mozilla/5.0"
+192.168.1.35 - - [18/Aug/2026:23:14:51 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:14:53 [INFO] Background job completed successfully in 165ms
+192.168.1.37 - - [18/Aug/2026:23:14:55 +0000] "GET /api/v1/products HTTP/1.1" 200 332 "-" "Mozilla/5.0"
+192.168.1.38 - - [18/Aug/2026:23:14:57 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.39 - - [18/Aug/2026:23:14:59 +0000] "GET /index.html HTTP/1.1" 200 406 "-" "Mozilla/5.0"
+192.168.1.40 - - [18/Aug/2026:23:15:01 +0000] "GET /api/v1/products HTTP/1.1" 200 443 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:15:03 +0000] "GET /api/search?q=' OR 1=1 -- HTTP/1.1" 500 4096 "-" "Python-urllib/3.8"
+192.168.1.42 - - [18/Aug/2026:23:15:05 +0000] "GET /api/v1/products HTTP/1.1" 200 517 "-" "Mozilla/5.0"
+192.168.1.43 - - [18/Aug/2026:23:15:07 +0000] "POST /api/v1/login HTTP/1.1" 200 554 "-" "Mozilla/5.0"
+2026-08-18 23:15:09 [INFO] Background job completed successfully in 19ms
+192.168.1.45 - - [18/Aug/2026:23:15:11 +0000] "POST /api/v1/login HTTP/1.1" 200 628 "-" "Mozilla/5.0"
+2026-08-18 23:15:13 [INFO] Background job completed successfully in 45ms
+2026-08-18 23:15:15 [INFO] Background job completed successfully in 58ms
+2026-08-18 23:15:17 [INFO] Background job completed successfully in 71ms
+192.168.1.49 - - [18/Aug/2026:23:15:19 +0000] "POST /api/v1/login HTTP/1.1" 200 776 "-" "Mozilla/5.0"
+192.168.1.50 - - [18/Aug/2026:23:15:21 +0000] "GET /api/v1/products HTTP/1.1" 200 813 "-" "Mozilla/5.0"
+192.168.1.51 - - [18/Aug/2026:23:15:23 +0000] "GET /api/v1/products HTTP/1.1" 200 850 "-" "Mozilla/5.0"
+192.168.1.52 - - [18/Aug/2026:23:15:25 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.53 - - [18/Aug/2026:23:15:27 +0000] "GET /index.html HTTP/1.1" 200 924 "-" "Mozilla/5.0"
+192.168.1.54 - - [18/Aug/2026:23:15:29 +0000] "POST /api/v1/login HTTP/1.1" 200 961 "-" "Mozilla/5.0"
+192.168.1.55 - - [18/Aug/2026:23:15:31 +0000] "GET /api/v1/products HTTP/1.1" 200 998 "-" "Mozilla/5.0"
+192.168.1.56 - - [18/Aug/2026:23:15:33 +0000] "POST /api/v1/login HTTP/1.1" 200 1035 "-" "Mozilla/5.0"
+192.168.1.57 - - [18/Aug/2026:23:15:35 +0000] "POST /api/v1/login HTTP/1.1" 200 1072 "-" "Mozilla/5.0"
+192.168.1.58 - - [18/Aug/2026:23:15:37 +0000] "POST /api/v1/login HTTP/1.1" 200 1109 "-" "Mozilla/5.0"
+192.168.1.59 - - [18/Aug/2026:23:15:39 +0000] "POST /api/v1/login HTTP/1.1" 200 1146 "-" "Mozilla/5.0"
+2026-08-18 23:15:41 [INFO] Background job completed successfully in 227ms
+10.0.0.99 - - [18/Aug/2026:23:15:43 +0000] "GET /../../etc/passwd HTTP/1.1" 403 512 "-" "CustomScanner/1.0"
+192.168.1.62 - - [18/Aug/2026:23:15:45 +0000] "POST /api/v1/login HTTP/1.1" 200 1257 "-" "Mozilla/5.0"
+192.168.1.63 - - [18/Aug/2026:23:15:47 +0000] "GET /api/v1/products HTTP/1.1" 200 1294 "-" "Mozilla/5.0"
+192.168.1.64 - - [18/Aug/2026:23:15:49 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.65 - - [18/Aug/2026:23:15:51 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.66 - - [18/Aug/2026:23:15:53 +0000] "GET /api/v1/products HTTP/1.1" 200 1405 "-" "Mozilla/5.0"
+192.168.1.67 - - [18/Aug/2026:23:15:55 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.68 - - [18/Aug/2026:23:15:57 +0000] "GET /api/v1/products HTTP/1.1" 200 1479 "-" "Mozilla/5.0"
+192.168.1.69 - - [18/Aug/2026:23:15:59 +0000] "GET /index.html HTTP/1.1" 200 1516 "-" "Mozilla/5.0"
+192.168.1.70 - - [18/Aug/2026:23:16:01 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.71 - - [18/Aug/2026:23:16:03 +0000] "GET /index.html HTTP/1.1" 200 1590 "-" "Mozilla/5.0"
+192.168.1.72 - - [18/Aug/2026:23:16:05 +0000] "GET /index.html HTTP/1.1" 200 1627 "-" "Mozilla/5.0"
+192.168.1.73 - - [18/Aug/2026:23:16:07 +0000] "POST /api/v1/login HTTP/1.1" 200 1664 "-" "Mozilla/5.0"
+192.168.1.74 - - [18/Aug/2026:23:16:09 +0000] "GET /api/v1/products HTTP/1.1" 200 1701 "-" "Mozilla/5.0"
+192.168.1.75 - - [18/Aug/2026:23:16:11 +0000] "GET /api/v1/products HTTP/1.1" 200 1738 "-" "Mozilla/5.0"
+192.168.1.76 - - [18/Aug/2026:23:16:13 +0000] "POST /api/v1/login HTTP/1.1" 200 1775 "-" "Mozilla/5.0"
+192.168.1.77 - - [18/Aug/2026:23:16:15 +0000] "GET /api/v1/products HTTP/1.1" 200 1812 "-" "Mozilla/5.0"
+192.168.1.78 - - [18/Aug/2026:23:16:17 +0000] "POST /api/v1/login HTTP/1.1" 200 1849 "-" "Mozilla/5.0"
+192.168.1.79 - - [18/Aug/2026:23:16:19 +0000] "GET /index.html HTTP/1.1" 200 1886 "-" "Mozilla/5.0"
+192.168.1.80 - - [18/Aug/2026:23:16:21 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:16:23 [CRITICAL] FATAL: OutOfMemoryError in worker thread pool! Heap dump generated.
+192.168.1.82 - - [18/Aug/2026:23:16:25 +0000] "POST /api/v1/login HTTP/1.1" 200 1997 "-" "Mozilla/5.0"
+192.168.1.83 - - [18/Aug/2026:23:16:27 +0000] "GET /api/v1/products HTTP/1.1" 200 2034 "-" "Mozilla/5.0"
+192.168.1.84 - - [18/Aug/2026:23:16:29 +0000] "GET /api/v1/products HTTP/1.1" 200 2071 "-" "Mozilla/5.0"
+192.168.1.85 - - [18/Aug/2026:23:16:31 +0000] "POST /api/v1/login HTTP/1.1" 200 2108 "-" "Mozilla/5.0"
+192.168.1.86 - - [18/Aug/2026:23:16:33 +0000] "POST /api/v1/login HTTP/1.1" 200 2145 "-" "Mozilla/5.0"
+192.168.1.87 - - [18/Aug/2026:23:16:35 +0000] "GET /index.html HTTP/1.1" 200 2182 "-" "Mozilla/5.0"
+2026-08-18 23:16:37 [INFO] Background job completed successfully in 91ms
+2026-08-18 23:16:39 [INFO] Background job completed successfully in 104ms
+192.168.1.90 - - [18/Aug/2026:23:16:41 +0000] "GET /api/v1/products HTTP/1.1" 200 2293 "-" "Mozilla/5.0"
+192.168.1.91 - - [18/Aug/2026:23:16:43 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.92 - - [18/Aug/2026:23:16:45 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.93 - - [18/Aug/2026:23:16:47 +0000] "GET /index.html HTTP/1.1" 200 2404 "-" "Mozilla/5.0"
+192.168.1.94 - - [18/Aug/2026:23:16:49 +0000] "POST /api/v1/login HTTP/1.1" 200 2441 "-" "Mozilla/5.0"
+192.168.1.95 - - [18/Aug/2026:23:16:51 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.96 - - [18/Aug/2026:23:16:53 +0000] "GET /api/v1/products HTTP/1.1" 200 2515 "-" "Mozilla/5.0"
+192.168.1.97 - - [18/Aug/2026:23:16:55 +0000] "GET /api/v1/products HTTP/1.1" 200 2552 "-" "Mozilla/5.0"
+192.168.1.98 - - [18/Aug/2026:23:16:57 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.99 - - [18/Aug/2026:23:16:59 +0000] "GET /api/v1/products HTTP/1.1" 200 2626 "-" "Mozilla/5.0"
+192.168.1.100 - - [18/Aug/2026:23:17:01 +0000] "GET /api/v1/products HTTP/1.1" 200 2663 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:17:03 +0000] "GET /../../etc/passwd HTTP/1.1" 403 512 "-" "CustomScanner/1.0"
+192.168.1.102 - - [18/Aug/2026:23:17:05 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.103 - - [18/Aug/2026:23:17:07 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.104 - - [18/Aug/2026:23:17:09 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.105 - - [18/Aug/2026:23:17:11 +0000] "POST /api/v1/login HTTP/1.1" 200 2848 "-" "Mozilla/5.0"
+2026-08-18 23:17:13 [INFO] Background job completed successfully in 75ms
+192.168.1.107 - - [18/Aug/2026:23:17:15 +0000] "GET /index.html HTTP/1.1" 200 2922 "-" "Mozilla/5.0"
+2026-08-18 23:17:17 [INFO] Background job completed successfully in 101ms
+192.168.1.109 - - [18/Aug/2026:23:17:19 +0000] "GET /index.html HTTP/1.1" 200 2996 "-" "Mozilla/5.0"
+192.168.1.110 - - [18/Aug/2026:23:17:21 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:17:23 [INFO] Background job completed successfully in 140ms
+192.168.1.112 - - [18/Aug/2026:23:17:25 +0000] "GET /index.html HTTP/1.1" 200 3107 "-" "Mozilla/5.0"
+192.168.1.113 - - [18/Aug/2026:23:17:27 +0000] "GET /index.html HTTP/1.1" 200 3144 "-" "Mozilla/5.0"
+2026-08-18 23:17:29 [INFO] Background job completed successfully in 179ms
+2026-08-18 23:17:31 [INFO] Background job completed successfully in 192ms
+192.168.1.116 - - [18/Aug/2026:23:17:33 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.117 - - [18/Aug/2026:23:17:35 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.118 - - [18/Aug/2026:23:17:37 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.119 - - [18/Aug/2026:23:17:39 +0000] "GET /index.html HTTP/1.1" 200 3366 "-" "Mozilla/5.0"
+192.168.1.120 - - [18/Aug/2026:23:17:41 +0000] "GET /index.html HTTP/1.1" 200 3403 "-" "Mozilla/5.0"
+2026-08-18 23:17:43 [ERROR] Unauthorized access attempt detected from IP 192.168.99.99 on port 22
+192.168.1.122 - - [18/Aug/2026:23:17:45 +0000] "POST /api/v1/login HTTP/1.1" 200 3477 "-" "Mozilla/5.0"
+2026-08-18 23:17:47 [INFO] Background job completed successfully in 46ms
+192.168.1.124 - - [18/Aug/2026:23:17:49 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.125 - - [18/Aug/2026:23:17:51 +0000] "GET /api/v1/products HTTP/1.1" 200 3588 "-" "Mozilla/5.0"
+192.168.1.126 - - [18/Aug/2026:23:17:53 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.127 - - [18/Aug/2026:23:17:55 +0000] "GET /index.html HTTP/1.1" 200 3662 "-" "Mozilla/5.0"
+192.168.1.128 - - [18/Aug/2026:23:17:57 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.129 - - [18/Aug/2026:23:17:59 +0000] "GET /index.html HTTP/1.1" 200 3736 "-" "Mozilla/5.0"
+192.168.1.130 - - [18/Aug/2026:23:18:01 +0000] "GET /index.html HTTP/1.1" 200 3773 "-" "Mozilla/5.0"
+192.168.1.131 - - [18/Aug/2026:23:18:03 +0000] "GET /api/v1/products HTTP/1.1" 200 3810 "-" "Mozilla/5.0"
+192.168.1.132 - - [18/Aug/2026:23:18:05 +0000] "GET /index.html HTTP/1.1" 200 3847 "-" "Mozilla/5.0"
+192.168.1.133 - - [18/Aug/2026:23:18:07 +0000] "POST /api/v1/login HTTP/1.1" 200 3884 "-" "Mozilla/5.0"
+2026-08-18 23:18:09 [INFO] Background job completed successfully in 189ms
+192.168.1.135 - - [18/Aug/2026:23:18:11 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.136 - - [18/Aug/2026:23:18:13 +0000] "GET /index.html HTTP/1.1" 200 3995 "-" "Mozilla/5.0"
+192.168.1.137 - - [18/Aug/2026:23:18:15 +0000] "GET /api/v1/products HTTP/1.1" 200 4032 "-" "Mozilla/5.0"
+192.168.1.138 - - [18/Aug/2026:23:18:17 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.139 - - [18/Aug/2026:23:18:19 +0000] "POST /api/v1/login HTTP/1.1" 200 4106 "-" "Mozilla/5.0"
+192.168.1.140 - - [18/Aug/2026:23:18:21 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:18:23 [CRITICAL] FATAL: OutOfMemoryError in worker thread pool! Heap dump generated.
+192.168.1.142 - - [18/Aug/2026:23:18:25 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.143 - - [18/Aug/2026:23:18:27 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:18:29 [INFO] Background job completed successfully in 69ms
+2026-08-18 23:18:31 [INFO] Background job completed successfully in 82ms
+2026-08-18 23:18:33 [INFO] Background job completed successfully in 95ms
+192.168.1.147 - - [18/Aug/2026:23:18:35 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.148 - - [18/Aug/2026:23:18:37 +0000] "GET /api/v1/products HTTP/1.1" 200 439 "-" "Mozilla/5.0"
+192.168.1.149 - - [18/Aug/2026:23:18:39 +0000] "GET /index.html HTTP/1.1" 200 476 "-" "Mozilla/5.0"
+192.168.1.150 - - [18/Aug/2026:23:18:41 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.151 - - [18/Aug/2026:23:18:43 +0000] "GET /index.html HTTP/1.1" 200 550 "-" "Mozilla/5.0"
+192.168.1.152 - - [18/Aug/2026:23:18:45 +0000] "GET /api/v1/products HTTP/1.1" 200 587 "-" "Mozilla/5.0"
+192.168.1.153 - - [18/Aug/2026:23:18:47 +0000] "GET /index.html HTTP/1.1" 200 624 "-" "Mozilla/5.0"
+192.168.1.154 - - [18/Aug/2026:23:18:49 +0000] "GET /api/v1/products HTTP/1.1" 200 661 "-" "Mozilla/5.0"
+192.168.1.155 - - [18/Aug/2026:23:18:51 +0000] "GET /api/v1/products HTTP/1.1" 200 698 "-" "Mozilla/5.0"
+2026-08-18 23:18:53 [INFO] Background job completed successfully in 225ms
+192.168.1.157 - - [18/Aug/2026:23:18:55 +0000] "GET /api/v1/products HTTP/1.1" 200 772 "-" "Mozilla/5.0"
+192.168.1.158 - - [18/Aug/2026:23:18:57 +0000] "GET /index.html HTTP/1.1" 200 809 "-" "Mozilla/5.0"
+192.168.1.159 - - [18/Aug/2026:23:18:59 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.160 - - [18/Aug/2026:23:19:01 +0000] "POST /api/v1/login HTTP/1.1" 200 883 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:19:03 +0000] "GET /api/search?q=' OR 1=1 -- HTTP/1.1" 500 4096 "-" "Python-urllib/3.8"
+2026-08-18 23:19:05 [INFO] Background job completed successfully in 53ms
+2026-08-18 23:19:07 [INFO] Background job completed successfully in 66ms
+2026-08-18 23:19:09 [INFO] Background job completed successfully in 79ms
+192.168.1.165 - - [18/Aug/2026:23:19:11 +0000] "POST /api/v1/login HTTP/1.1" 200 1068 "-" "Mozilla/5.0"
+192.168.1.166 - - [18/Aug/2026:23:19:13 +0000] "GET /index.html HTTP/1.1" 200 1105 "-" "Mozilla/5.0"
+2026-08-18 23:19:15 [INFO] Background job completed successfully in 118ms
+192.168.1.168 - - [18/Aug/2026:23:19:17 +0000] "POST /api/v1/login HTTP/1.1" 200 1179 "-" "Mozilla/5.0"
+192.168.1.169 - - [18/Aug/2026:23:19:19 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.170 - - [18/Aug/2026:23:19:21 +0000] "POST /api/v1/login HTTP/1.1" 200 1253 "-" "Mozilla/5.0"
+192.168.1.171 - - [18/Aug/2026:23:19:23 +0000] "POST /api/v1/login HTTP/1.1" 200 1290 "-" "Mozilla/5.0"
+2026-08-18 23:19:25 [INFO] Background job completed successfully in 183ms
+2026-08-18 23:19:27 [INFO] Background job completed successfully in 196ms
+192.168.1.174 - - [18/Aug/2026:23:19:29 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.175 - - [18/Aug/2026:23:19:31 +0000] "POST /api/v1/login HTTP/1.1" 200 1438 "-" "Mozilla/5.0"
+192.168.1.176 - - [18/Aug/2026:23:19:33 +0000] "GET /index.html HTTP/1.1" 200 1475 "-" "Mozilla/5.0"
+192.168.1.177 - - [18/Aug/2026:23:19:35 +0000] "GET /index.html HTTP/1.1" 200 1512 "-" "Mozilla/5.0"
+2026-08-18 23:19:37 [INFO] Background job completed successfully in 11ms
+192.168.1.179 - - [18/Aug/2026:23:19:39 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:19:41 [INFO] Background job completed successfully in 37ms
+10.0.0.99 - - [18/Aug/2026:23:19:43 +0000] "POST /admin/upload HTTP/1.1" 500 99999999 "-" "ExploitBot"
+192.168.1.182 - - [18/Aug/2026:23:19:45 +0000] "GET /index.html HTTP/1.1" 200 1697 "-" "Mozilla/5.0"
+192.168.1.183 - - [18/Aug/2026:23:19:47 +0000] "GET /api/v1/products HTTP/1.1" 200 1734 "-" "Mozilla/5.0"
+192.168.1.184 - - [18/Aug/2026:23:19:49 +0000] "GET /api/v1/products HTTP/1.1" 200 1771 "-" "Mozilla/5.0"
+192.168.1.185 - - [18/Aug/2026:23:19:51 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.186 - - [18/Aug/2026:23:19:53 +0000] "POST /api/v1/login HTTP/1.1" 200 1845 "-" "Mozilla/5.0"
+192.168.1.187 - - [18/Aug/2026:23:19:55 +0000] "POST /api/v1/login HTTP/1.1" 200 1882 "-" "Mozilla/5.0"
+192.168.1.188 - - [18/Aug/2026:23:19:57 +0000] "GET /index.html HTTP/1.1" 200 1919 "-" "Mozilla/5.0"
+192.168.1.189 - - [18/Aug/2026:23:19:59 +0000] "GET /index.html HTTP/1.1" 200 1956 "-" "Mozilla/5.0"
+192.168.1.190 - - [18/Aug/2026:23:20:01 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.191 - - [18/Aug/2026:23:20:03 +0000] "POST /api/v1/login HTTP/1.1" 200 2030 "-" "Mozilla/5.0"
+192.168.1.192 - - [18/Aug/2026:23:20:05 +0000] "POST /api/v1/login HTTP/1.1" 200 2067 "-" "Mozilla/5.0"
+192.168.1.193 - - [18/Aug/2026:23:20:07 +0000] "GET /api/v1/products HTTP/1.1" 200 2104 "-" "Mozilla/5.0"
+192.168.1.194 - - [18/Aug/2026:23:20:09 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.195 - - [18/Aug/2026:23:20:11 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.196 - - [18/Aug/2026:23:20:13 +0000] "GET /api/v1/products HTTP/1.1" 200 2215 "-" "Mozilla/5.0"
+192.168.1.197 - - [18/Aug/2026:23:20:15 +0000] "POST /api/v1/login HTTP/1.1" 200 2252 "-" "Mozilla/5.0"
+2026-08-18 23:20:17 [INFO] Background job completed successfully in 21ms
+192.168.1.199 - - [18/Aug/2026:23:20:19 +0000] "GET /index.html HTTP/1.1" 200 2326 "-" "Mozilla/5.0"
+192.168.1.200 - - [18/Aug/2026:23:20:21 +0000] "POST /api/v1/login HTTP/1.1" 200 2363 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:20:23 +0000] "GET /api/search?q=' OR 1=1 -- HTTP/1.1" 500 4096 "-" "Python-urllib/3.8"
+2026-08-18 23:20:25 [INFO] Background job completed successfully in 73ms
+192.168.1.3 - - [18/Aug/2026:23:20:27 +0000] "GET /index.html HTTP/1.1" 200 2474 "-" "Mozilla/5.0"
+192.168.1.4 - - [18/Aug/2026:23:20:29 +0000] "GET /api/v1/products HTTP/1.1" 200 2511 "-" "Mozilla/5.0"
+192.168.1.5 - - [18/Aug/2026:23:20:31 +0000] "POST /api/v1/login HTTP/1.1" 200 2548 "-" "Mozilla/5.0"
+192.168.1.6 - - [18/Aug/2026:23:20:33 +0000] "POST /api/v1/login HTTP/1.1" 200 2585 "-" "Mozilla/5.0"
+192.168.1.7 - - [18/Aug/2026:23:20:35 +0000] "POST /api/v1/login HTTP/1.1" 200 2622 "-" "Mozilla/5.0"
+192.168.1.8 - - [18/Aug/2026:23:20:37 +0000] "GET /index.html HTTP/1.1" 200 2659 "-" "Mozilla/5.0"
+192.168.1.9 - - [18/Aug/2026:23:20:39 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:20:41 [INFO] Background job completed successfully in 177ms
+192.168.1.11 - - [18/Aug/2026:23:20:43 +0000] "POST /api/v1/login HTTP/1.1" 200 2770 "-" "Mozilla/5.0"
+192.168.1.12 - - [18/Aug/2026:23:20:45 +0000] "GET /index.html HTTP/1.1" 200 2807 "-" "Mozilla/5.0"
+192.168.1.13 - - [18/Aug/2026:23:20:47 +0000] "POST /api/v1/login HTTP/1.1" 200 2844 "-" "Mozilla/5.0"
+192.168.1.14 - - [18/Aug/2026:23:20:49 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.15 - - [18/Aug/2026:23:20:51 +0000] "POST /api/v1/login HTTP/1.1" 200 2918 "-" "Mozilla/5.0"
+192.168.1.16 - - [18/Aug/2026:23:20:53 +0000] "POST /api/v1/login HTTP/1.1" 200 2955 "-" "Mozilla/5.0"
+192.168.1.17 - - [18/Aug/2026:23:20:55 +0000] "POST /api/v1/login HTTP/1.1" 200 2992 "-" "Mozilla/5.0"
+2026-08-18 23:20:57 [INFO] Background job completed successfully in 31ms
+192.168.1.19 - - [18/Aug/2026:23:20:59 +0000] "GET /api/v1/products HTTP/1.1" 200 3066 "-" "Mozilla/5.0"
+192.168.1.20 - - [18/Aug/2026:23:21:01 +0000] "GET /index.html HTTP/1.1" 200 3103 "-" "Mozilla/5.0"
+2026-08-18 23:21:03 [ERROR] Unauthorized access attempt detected from IP 192.168.99.99 on port 22
+2026-08-18 23:21:05 [INFO] Background job completed successfully in 83ms
+192.168.1.23 - - [18/Aug/2026:23:21:07 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:21:09 [INFO] Background job completed successfully in 109ms
+2026-08-18 23:21:11 [INFO] Background job completed successfully in 122ms
+192.168.1.26 - - [18/Aug/2026:23:21:13 +0000] "GET /index.html HTTP/1.1" 200 3325 "-" "Mozilla/5.0"
+192.168.1.27 - - [18/Aug/2026:23:21:15 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.28 - - [18/Aug/2026:23:21:17 +0000] "GET /index.html HTTP/1.1" 200 3399 "-" "Mozilla/5.0"
+192.168.1.29 - - [18/Aug/2026:23:21:19 +0000] "POST /api/v1/login HTTP/1.1" 200 3436 "-" "Mozilla/5.0"
+2026-08-18 23:21:21 [INFO] Background job completed successfully in 187ms
+192.168.1.31 - - [18/Aug/2026:23:21:23 +0000] "POST /api/v1/login HTTP/1.1" 200 3510 "-" "Mozilla/5.0"
+192.168.1.32 - - [18/Aug/2026:23:21:25 +0000] "GET /index.html HTTP/1.1" 200 3547 "-" "Mozilla/5.0"
+192.168.1.33 - - [18/Aug/2026:23:21:27 +0000] "GET /index.html HTTP/1.1" 200 3584 "-" "Mozilla/5.0"
+192.168.1.34 - - [18/Aug/2026:23:21:29 +0000] "POST /api/v1/login HTTP/1.1" 200 3621 "-" "Mozilla/5.0"
+2026-08-18 23:21:31 [INFO] Background job completed successfully in 252ms
+192.168.1.36 - - [18/Aug/2026:23:21:33 +0000] "GET /api/v1/products HTTP/1.1" 200 3695 "-" "Mozilla/5.0"
+2026-08-18 23:21:35 [INFO] Background job completed successfully in 28ms
+192.168.1.38 - - [18/Aug/2026:23:21:37 +0000] "GET /api/v1/products HTTP/1.1" 200 3769 "-" "Mozilla/5.0"
+192.168.1.39 - - [18/Aug/2026:23:21:39 +0000] "GET /index.html HTTP/1.1" 200 3806 "-" "Mozilla/5.0"
+2026-08-18 23:21:41 [INFO] Background job completed successfully in 67ms
+2026-08-18 23:21:43 [ERROR] Unauthorized access attempt detected from IP 192.168.99.99 on port 22
+2026-08-18 23:21:45 [INFO] Background job completed successfully in 93ms
+192.168.1.43 - - [18/Aug/2026:23:21:47 +0000] "GET /index.html HTTP/1.1" 200 3954 "-" "Mozilla/5.0"
+192.168.1.44 - - [18/Aug/2026:23:21:49 +0000] "GET /api/v1/products HTTP/1.1" 200 3991 "-" "Mozilla/5.0"
+2026-08-18 23:21:51 [INFO] Background job completed successfully in 132ms
+2026-08-18 23:21:53 [INFO] Background job completed successfully in 145ms
+192.168.1.47 - - [18/Aug/2026:23:21:55 +0000] "GET /index.html HTTP/1.1" 200 4102 "-" "Mozilla/5.0"
+2026-08-18 23:21:57 [INFO] Background job completed successfully in 171ms
+192.168.1.49 - - [18/Aug/2026:23:21:59 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.50 - - [18/Aug/2026:23:22:01 +0000] "GET /api/v1/products HTTP/1.1" 200 213 "-" "Mozilla/5.0"
+2026-08-18 23:22:03 [INFO] Background job completed successfully in 210ms
+192.168.1.52 - - [18/Aug/2026:23:22:05 +0000] "GET /api/v1/products HTTP/1.1" 200 287 "-" "Mozilla/5.0"
+2026-08-18 23:22:07 [INFO] Background job completed successfully in 236ms
+192.168.1.54 - - [18/Aug/2026:23:22:09 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:22:11 [INFO] Background job completed successfully in 12ms
+2026-08-18 23:22:13 [INFO] Background job completed successfully in 25ms
+2026-08-18 23:22:15 [INFO] Background job completed successfully in 38ms
+192.168.1.58 - - [18/Aug/2026:23:22:17 +0000] "POST /api/v1/login HTTP/1.1" 200 509 "-" "Mozilla/5.0"
+2026-08-18 23:22:19 [INFO] Background job completed successfully in 64ms
+192.168.1.60 - - [18/Aug/2026:23:22:21 +0000] "GET /api/v1/products HTTP/1.1" 200 583 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:22:23 +0000] "GET /api/search?q=' OR 1=1 -- HTTP/1.1" 500 4096 "-" "Python-urllib/3.8"
+192.168.1.62 - - [18/Aug/2026:23:22:25 +0000] "GET /index.html HTTP/1.1" 200 657 "-" "Mozilla/5.0"
+2026-08-18 23:22:27 [INFO] Background job completed successfully in 116ms
+192.168.1.64 - - [18/Aug/2026:23:22:29 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.65 - - [18/Aug/2026:23:22:31 +0000] "GET /index.html HTTP/1.1" 200 768 "-" "Mozilla/5.0"
+192.168.1.66 - - [18/Aug/2026:23:22:33 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.67 - - [18/Aug/2026:23:22:35 +0000] "GET /api/v1/products HTTP/1.1" 200 842 "-" "Mozilla/5.0"
+192.168.1.68 - - [18/Aug/2026:23:22:37 +0000] "GET /index.html HTTP/1.1" 200 879 "-" "Mozilla/5.0"
+192.168.1.69 - - [18/Aug/2026:23:22:39 +0000] "GET /api/v1/products HTTP/1.1" 200 916 "-" "Mozilla/5.0"
+192.168.1.70 - - [18/Aug/2026:23:22:41 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.71 - - [18/Aug/2026:23:22:43 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.72 - - [18/Aug/2026:23:22:45 +0000] "POST /api/v1/login HTTP/1.1" 200 1027 "-" "Mozilla/5.0"
+2026-08-18 23:22:47 [INFO] Background job completed successfully in 246ms
+2026-08-18 23:22:49 [INFO] Background job completed successfully in 259ms
+2026-08-18 23:22:51 [INFO] Background job completed successfully in 22ms
+192.168.1.76 - - [18/Aug/2026:23:22:53 +0000] "GET /index.html HTTP/1.1" 200 1175 "-" "Mozilla/5.0"
+192.168.1.77 - - [18/Aug/2026:23:22:55 +0000] "POST /api/v1/login HTTP/1.1" 200 1212 "-" "Mozilla/5.0"
+192.168.1.78 - - [18/Aug/2026:23:22:57 +0000] "GET /api/v1/products HTTP/1.1" 200 1249 "-" "Mozilla/5.0"
+2026-08-18 23:22:59 [INFO] Background job completed successfully in 74ms
+192.168.1.80 - - [18/Aug/2026:23:23:01 +0000] "GET /index.html HTTP/1.1" 200 1323 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:23:03 +0000] "GET /api/search?q=' OR 1=1 -- HTTP/1.1" 500 4096 "-" "Python-urllib/3.8"
+192.168.1.82 - - [18/Aug/2026:23:23:05 +0000] "GET /index.html HTTP/1.1" 200 1397 "-" "Mozilla/5.0"
+192.168.1.83 - - [18/Aug/2026:23:23:07 +0000] "POST /api/v1/login HTTP/1.1" 200 1434 "-" "Mozilla/5.0"
+192.168.1.84 - - [18/Aug/2026:23:23:09 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.85 - - [18/Aug/2026:23:23:11 +0000] "POST /api/v1/login HTTP/1.1" 200 1508 "-" "Mozilla/5.0"
+2026-08-18 23:23:13 [INFO] Background job completed successfully in 165ms
+2026-08-18 23:23:15 [INFO] Background job completed successfully in 178ms
+192.168.1.88 - - [18/Aug/2026:23:23:17 +0000] "POST /api/v1/login HTTP/1.1" 200 1619 "-" "Mozilla/5.0"
+2026-08-18 23:23:19 [INFO] Background job completed successfully in 204ms
+192.168.1.90 - - [18/Aug/2026:23:23:21 +0000] "GET /api/v1/products HTTP/1.1" 200 1693 "-" "Mozilla/5.0"
+192.168.1.91 - - [18/Aug/2026:23:23:23 +0000] "GET /index.html HTTP/1.1" 200 1730 "-" "Mozilla/5.0"
+192.168.1.92 - - [18/Aug/2026:23:23:25 +0000] "GET /index.html HTTP/1.1" 200 1767 "-" "Mozilla/5.0"
+192.168.1.93 - - [18/Aug/2026:23:23:27 +0000] "GET /api/v1/products HTTP/1.1" 200 1804 "-" "Mozilla/5.0"
+192.168.1.94 - - [18/Aug/2026:23:23:29 +0000] "GET /api/v1/products HTTP/1.1" 200 1841 "-" "Mozilla/5.0"
+192.168.1.95 - - [18/Aug/2026:23:23:31 +0000] "GET /api/v1/products HTTP/1.1" 200 1878 "-" "Mozilla/5.0"
+192.168.1.96 - - [18/Aug/2026:23:23:33 +0000] "POST /api/v1/login HTTP/1.1" 200 1915 "-" "Mozilla/5.0"
+192.168.1.97 - - [18/Aug/2026:23:23:35 +0000] "GET /api/v1/products HTTP/1.1" 200 1952 "-" "Mozilla/5.0"
+192.168.1.98 - - [18/Aug/2026:23:23:37 +0000] "GET /index.html HTTP/1.1" 200 1989 "-" "Mozilla/5.0"
+192.168.1.99 - - [18/Aug/2026:23:23:39 +0000] "GET /api/v1/products HTTP/1.1" 200 2026 "-" "Mozilla/5.0"
+192.168.1.100 - - [18/Aug/2026:23:23:41 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:23:43 [ERROR] Unauthorized access attempt detected from IP 192.168.99.99 on port 22
+192.168.1.102 - - [18/Aug/2026:23:23:45 +0000] "GET /index.html HTTP/1.1" 200 2137 "-" "Mozilla/5.0"
+192.168.1.103 - - [18/Aug/2026:23:23:47 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.104 - - [18/Aug/2026:23:23:49 +0000] "GET /index.html HTTP/1.1" 200 2211 "-" "Mozilla/5.0"
+192.168.1.105 - - [18/Aug/2026:23:23:51 +0000] "GET /api/v1/products HTTP/1.1" 200 2248 "-" "Mozilla/5.0"
+192.168.1.106 - - [18/Aug/2026:23:23:53 +0000] "GET /index.html HTTP/1.1" 200 2285 "-" "Mozilla/5.0"
+192.168.1.107 - - [18/Aug/2026:23:23:55 +0000] "GET /index.html HTTP/1.1" 200 2322 "-" "Mozilla/5.0"
+2026-08-18 23:23:57 [INFO] Background job completed successfully in 201ms
+192.168.1.109 - - [18/Aug/2026:23:23:59 +0000] "GET /api/v1/products HTTP/1.1" 200 2396 "-" "Mozilla/5.0"
+192.168.1.110 - - [18/Aug/2026:23:24:01 +0000] "GET /index.html HTTP/1.1" 200 2433 "-" "Mozilla/5.0"
+192.168.1.111 - - [18/Aug/2026:23:24:03 +0000] "GET /index.html HTTP/1.1" 200 2470 "-" "Mozilla/5.0"
+192.168.1.112 - - [18/Aug/2026:23:24:05 +0000] "GET /index.html HTTP/1.1" 200 2507 "-" "Mozilla/5.0"
+2026-08-18 23:24:07 [INFO] Background job completed successfully in 16ms
+192.168.1.114 - - [18/Aug/2026:23:24:09 +0000] "POST /api/v1/login HTTP/1.1" 200 2581 "-" "Mozilla/5.0"
+192.168.1.115 - - [18/Aug/2026:23:24:11 +0000] "POST /api/v1/login HTTP/1.1" 200 2618 "-" "Mozilla/5.0"
+192.168.1.116 - - [18/Aug/2026:23:24:13 +0000] "GET /index.html HTTP/1.1" 200 2655 "-" "Mozilla/5.0"
+192.168.1.117 - - [18/Aug/2026:23:24:15 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.118 - - [18/Aug/2026:23:24:17 +0000] "GET /index.html HTTP/1.1" 200 2729 "-" "Mozilla/5.0"
+2026-08-18 23:24:19 [INFO] Background job completed successfully in 94ms
+192.168.1.120 - - [18/Aug/2026:23:24:21 +0000] "POST /api/v1/login HTTP/1.1" 200 2803 "-" "Mozilla/5.0"
+2026-08-18 23:24:23 [ERROR] Unauthorized access attempt detected from IP 192.168.99.99 on port 22
+192.168.1.122 - - [18/Aug/2026:23:24:25 +0000] "GET /api/v1/products HTTP/1.1" 200 2877 "-" "Mozilla/5.0"
+2026-08-18 23:24:27 [INFO] Background job completed successfully in 146ms
+192.168.1.124 - - [18/Aug/2026:23:24:29 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.125 - - [18/Aug/2026:23:24:31 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.126 - - [18/Aug/2026:23:24:33 +0000] "GET /api/v1/products HTTP/1.1" 200 3025 "-" "Mozilla/5.0"
+192.168.1.127 - - [18/Aug/2026:23:24:35 +0000] "GET /index.html HTTP/1.1" 200 3062 "-" "Mozilla/5.0"
+192.168.1.128 - - [18/Aug/2026:23:24:37 +0000] "POST /api/v1/login HTTP/1.1" 200 3099 "-" "Mozilla/5.0"
+192.168.1.129 - - [18/Aug/2026:23:24:39 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.130 - - [18/Aug/2026:23:24:41 +0000] "POST /api/v1/login HTTP/1.1" 200 3173 "-" "Mozilla/5.0"
+192.168.1.131 - - [18/Aug/2026:23:24:43 +0000] "GET /index.html HTTP/1.1" 200 3210 "-" "Mozilla/5.0"
+192.168.1.132 - - [18/Aug/2026:23:24:45 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.133 - - [18/Aug/2026:23:24:47 +0000] "GET /index.html HTTP/1.1" 200 3284 "-" "Mozilla/5.0"
+192.168.1.134 - - [18/Aug/2026:23:24:49 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.135 - - [18/Aug/2026:23:24:51 +0000] "GET /index.html HTTP/1.1" 200 3358 "-" "Mozilla/5.0"
+2026-08-18 23:24:53 [INFO] Background job completed successfully in 65ms
+192.168.1.137 - - [18/Aug/2026:23:24:55 +0000] "POST /api/v1/login HTTP/1.1" 200 3432 "-" "Mozilla/5.0"
+192.168.1.138 - - [18/Aug/2026:23:24:57 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.139 - - [18/Aug/2026:23:24:59 +0000] "GET /api/v1/products HTTP/1.1" 200 3506 "-" "Mozilla/5.0"
+192.168.1.140 - - [18/Aug/2026:23:25:01 +0000] "GET /api/v1/products HTTP/1.1" 200 3543 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:25:03 +0000] "GET /../../etc/passwd HTTP/1.1" 403 512 "-" "CustomScanner/1.0"
+192.168.1.142 - - [18/Aug/2026:23:25:05 +0000] "GET /index.html HTTP/1.1" 200 3617 "-" "Mozilla/5.0"
+192.168.1.143 - - [18/Aug/2026:23:25:07 +0000] "GET /api/v1/products HTTP/1.1" 200 3654 "-" "Mozilla/5.0"
+192.168.1.144 - - [18/Aug/2026:23:25:09 +0000] "GET /index.html HTTP/1.1" 200 3691 "-" "Mozilla/5.0"
+192.168.1.145 - - [18/Aug/2026:23:25:11 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.146 - - [18/Aug/2026:23:25:13 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.147 - - [18/Aug/2026:23:25:15 +0000] "GET /index.html HTTP/1.1" 200 3802 "-" "Mozilla/5.0"
+192.168.1.148 - - [18/Aug/2026:23:25:17 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:25:19 [INFO] Background job completed successfully in 234ms
+192.168.1.150 - - [18/Aug/2026:23:25:21 +0000] "POST /api/v1/login HTTP/1.1" 200 3913 "-" "Mozilla/5.0"
+192.168.1.151 - - [18/Aug/2026:23:25:23 +0000] "GET /api/v1/products HTTP/1.1" 200 3950 "-" "Mozilla/5.0"
+192.168.1.152 - - [18/Aug/2026:23:25:25 +0000] "POST /api/v1/login HTTP/1.1" 200 3987 "-" "Mozilla/5.0"
+192.168.1.153 - - [18/Aug/2026:23:25:27 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.154 - - [18/Aug/2026:23:25:29 +0000] "POST /api/v1/login HTTP/1.1" 200 4061 "-" "Mozilla/5.0"
+192.168.1.155 - - [18/Aug/2026:23:25:31 +0000] "GET /index.html HTTP/1.1" 200 4098 "-" "Mozilla/5.0"
+192.168.1.156 - - [18/Aug/2026:23:25:33 +0000] "GET /api/v1/products HTTP/1.1" 200 4135 "-" "Mozilla/5.0"
+192.168.1.157 - - [18/Aug/2026:23:25:35 +0000] "POST /api/v1/login HTTP/1.1" 200 4172 "-" "Mozilla/5.0"
+192.168.1.158 - - [18/Aug/2026:23:25:37 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.159 - - [18/Aug/2026:23:25:39 +0000] "GET /api/v1/products HTTP/1.1" 200 246 "-" "Mozilla/5.0"
+192.168.1.160 - - [18/Aug/2026:23:25:41 +0000] "GET /api/v1/products HTTP/1.1" 200 283 "-" "Mozilla/5.0"
+2026-08-18 23:25:43 [CRITICAL] FATAL: OutOfMemoryError in worker thread pool! Heap dump generated.
+2026-08-18 23:25:45 [INFO] Background job completed successfully in 153ms
+192.168.1.163 - - [18/Aug/2026:23:25:47 +0000] "POST /api/v1/login HTTP/1.1" 200 394 "-" "Mozilla/5.0"
+192.168.1.164 - - [18/Aug/2026:23:25:49 +0000] "POST /api/v1/login HTTP/1.1" 200 431 "-" "Mozilla/5.0"
+2026-08-18 23:25:51 [INFO] Background job completed successfully in 192ms
+192.168.1.166 - - [18/Aug/2026:23:25:53 +0000] "GET /api/v1/products HTTP/1.1" 200 505 "-" "Mozilla/5.0"
+192.168.1.167 - - [18/Aug/2026:23:25:55 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.168 - - [18/Aug/2026:23:25:57 +0000] "GET /api/v1/products HTTP/1.1" 200 579 "-" "Mozilla/5.0"
+192.168.1.169 - - [18/Aug/2026:23:25:59 +0000] "GET /api/v1/products HTTP/1.1" 200 616 "-" "Mozilla/5.0"
+192.168.1.170 - - [18/Aug/2026:23:26:01 +0000] "GET /api/v1/products HTTP/1.1" 200 653 "-" "Mozilla/5.0"
+2026-08-18 23:26:03 [INFO] Background job completed successfully in 20ms
+192.168.1.172 - - [18/Aug/2026:23:26:05 +0000] "GET /api/v1/products HTTP/1.1" 200 727 "-" "Mozilla/5.0"
+2026-08-18 23:26:07 [INFO] Background job completed successfully in 46ms
+192.168.1.174 - - [18/Aug/2026:23:26:09 +0000] "GET /api/v1/products HTTP/1.1" 200 801 "-" "Mozilla/5.0"
+192.168.1.175 - - [18/Aug/2026:23:26:11 +0000] "POST /api/v1/login HTTP/1.1" 200 838 "-" "Mozilla/5.0"
+192.168.1.176 - - [18/Aug/2026:23:26:13 +0000] "GET /index.html HTTP/1.1" 200 875 "-" "Mozilla/5.0"
+192.168.1.177 - - [18/Aug/2026:23:26:15 +0000] "GET /index.html HTTP/1.1" 200 912 "-" "Mozilla/5.0"
+192.168.1.178 - - [18/Aug/2026:23:26:17 +0000] "GET /index.html HTTP/1.1" 200 949 "-" "Mozilla/5.0"
+192.168.1.179 - - [18/Aug/2026:23:26:19 +0000] "GET /index.html HTTP/1.1" 200 986 "-" "Mozilla/5.0"
+192.168.1.180 - - [18/Aug/2026:23:26:21 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:26:23 +0000] "POST /admin/upload HTTP/1.1" 500 99999999 "-" "ExploitBot"
+192.168.1.182 - - [18/Aug/2026:23:26:25 +0000] "POST /api/v1/login HTTP/1.1" 200 1097 "-" "Mozilla/5.0"
+192.168.1.183 - - [18/Aug/2026:23:26:27 +0000] "GET /api/v1/products HTTP/1.1" 200 1134 "-" "Mozilla/5.0"
+192.168.1.184 - - [18/Aug/2026:23:26:29 +0000] "POST /api/v1/login HTTP/1.1" 200 1171 "-" "Mozilla/5.0"
+192.168.1.185 - - [18/Aug/2026:23:26:31 +0000] "POST /api/v1/login HTTP/1.1" 200 1208 "-" "Mozilla/5.0"
+192.168.1.186 - - [18/Aug/2026:23:26:33 +0000] "GET /api/v1/products HTTP/1.1" 200 1245 "-" "Mozilla/5.0"
+2026-08-18 23:26:35 [INFO] Background job completed successfully in 228ms
+192.168.1.188 - - [18/Aug/2026:23:26:37 +0000] "POST /api/v1/login HTTP/1.1" 200 1319 "-" "Mozilla/5.0"
+2026-08-18 23:26:39 [INFO] Background job completed successfully in 254ms
+192.168.1.190 - - [18/Aug/2026:23:26:41 +0000] "GET /index.html HTTP/1.1" 200 1393 "-" "Mozilla/5.0"
+192.168.1.191 - - [18/Aug/2026:23:26:43 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.192 - - [18/Aug/2026:23:26:45 +0000] "POST /api/v1/login HTTP/1.1" 200 1467 "-" "Mozilla/5.0"
+192.168.1.193 - - [18/Aug/2026:23:26:47 +0000] "POST /api/v1/login HTTP/1.1" 200 1504 "-" "Mozilla/5.0"
+192.168.1.194 - - [18/Aug/2026:23:26:49 +0000] "GET /api/v1/products HTTP/1.1" 200 1541 "-" "Mozilla/5.0"
+192.168.1.195 - - [18/Aug/2026:23:26:51 +0000] "GET /api/v1/products HTTP/1.1" 200 1578 "-" "Mozilla/5.0"
+192.168.1.196 - - [18/Aug/2026:23:26:53 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.197 - - [18/Aug/2026:23:26:55 +0000] "GET /api/v1/products HTTP/1.1" 200 1652 "-" "Mozilla/5.0"
+192.168.1.198 - - [18/Aug/2026:23:26:57 +0000] "POST /api/v1/login HTTP/1.1" 200 1689 "-" "Mozilla/5.0"
+192.168.1.199 - - [18/Aug/2026:23:26:59 +0000] "POST /api/v1/login HTTP/1.1" 200 1726 "-" "Mozilla/5.0"
+192.168.1.200 - - [18/Aug/2026:23:27:01 +0000] "GET /index.html HTTP/1.1" 200 1763 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:27:03 +0000] "POST /admin/upload HTTP/1.1" 500 99999999 "-" "ExploitBot"
+192.168.1.2 - - [18/Aug/2026:23:27:05 +0000] "GET /api/v1/products HTTP/1.1" 200 1837 "-" "Mozilla/5.0"
+192.168.1.3 - - [18/Aug/2026:23:27:07 +0000] "GET /index.html HTTP/1.1" 200 1874 "-" "Mozilla/5.0"
+192.168.1.4 - - [18/Aug/2026:23:27:09 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.5 - - [18/Aug/2026:23:27:11 +0000] "GET /index.html HTTP/1.1" 200 1948 "-" "Mozilla/5.0"
+192.168.1.6 - - [18/Aug/2026:23:27:13 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.7 - - [18/Aug/2026:23:27:15 +0000] "GET /index.html HTTP/1.1" 200 2022 "-" "Mozilla/5.0"
+192.168.1.8 - - [18/Aug/2026:23:27:17 +0000] "GET /index.html HTTP/1.1" 200 2059 "-" "Mozilla/5.0"
+192.168.1.9 - - [18/Aug/2026:23:27:19 +0000] "GET /api/v1/products HTTP/1.1" 200 2096 "-" "Mozilla/5.0"
+192.168.1.10 - - [18/Aug/2026:23:27:21 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.11 - - [18/Aug/2026:23:27:23 +0000] "POST /api/v1/login HTTP/1.1" 200 2170 "-" "Mozilla/5.0"
+192.168.1.12 - - [18/Aug/2026:23:27:25 +0000] "GET /index.html HTTP/1.1" 200 2207 "-" "Mozilla/5.0"
+192.168.1.13 - - [18/Aug/2026:23:27:27 +0000] "POST /api/v1/login HTTP/1.1" 200 2244 "-" "Mozilla/5.0"
+192.168.1.14 - - [18/Aug/2026:23:27:29 +0000] "GET /index.html HTTP/1.1" 200 2281 "-" "Mozilla/5.0"
+192.168.1.15 - - [18/Aug/2026:23:27:31 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:27:33 [INFO] Background job completed successfully in 105ms
+192.168.1.17 - - [18/Aug/2026:23:27:35 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.18 - - [18/Aug/2026:23:27:37 +0000] "POST /api/v1/login HTTP/1.1" 200 2429 "-" "Mozilla/5.0"
+2026-08-18 23:27:39 [INFO] Background job completed successfully in 144ms
+192.168.1.20 - - [18/Aug/2026:23:27:41 +0000] "POST /api/v1/login HTTP/1.1" 200 2503 "-" "Mozilla/5.0"
+2026-08-18 23:27:43 [CRITICAL] FATAL: OutOfMemoryError in worker thread pool! Heap dump generated.
+192.168.1.22 - - [18/Aug/2026:23:27:45 +0000] "GET /index.html HTTP/1.1" 200 2577 "-" "Mozilla/5.0"
+192.168.1.23 - - [18/Aug/2026:23:27:47 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.24 - - [18/Aug/2026:23:27:49 +0000] "GET /index.html HTTP/1.1" 200 2651 "-" "Mozilla/5.0"
+192.168.1.25 - - [18/Aug/2026:23:27:51 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.26 - - [18/Aug/2026:23:27:53 +0000] "GET /api/v1/products HTTP/1.1" 200 2725 "-" "Mozilla/5.0"
+2026-08-18 23:27:55 [INFO] Background job completed successfully in 248ms
+2026-08-18 23:27:57 [INFO] Background job completed successfully in 11ms
+192.168.1.29 - - [18/Aug/2026:23:27:59 +0000] "GET /api/v1/products HTTP/1.1" 200 2836 "-" "Mozilla/5.0"
+2026-08-18 23:28:01 [INFO] Background job completed successfully in 37ms
+192.168.1.31 - - [18/Aug/2026:23:28:03 +0000] "POST /api/v1/login HTTP/1.1" 200 2910 "-" "Mozilla/5.0"
+192.168.1.32 - - [18/Aug/2026:23:28:05 +0000] "POST /api/v1/login HTTP/1.1" 200 2947 "-" "Mozilla/5.0"
+192.168.1.33 - - [18/Aug/2026:23:28:07 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.34 - - [18/Aug/2026:23:28:09 +0000] "GET /api/v1/products HTTP/1.1" 200 3021 "-" "Mozilla/5.0"
+192.168.1.35 - - [18/Aug/2026:23:28:11 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:28:13 [INFO] Background job completed successfully in 115ms
+2026-08-18 23:28:15 [INFO] Background job completed successfully in 128ms
+192.168.1.38 - - [18/Aug/2026:23:28:17 +0000] "GET /api/v1/products HTTP/1.1" 200 3169 "-" "Mozilla/5.0"
+192.168.1.39 - - [18/Aug/2026:23:28:19 +0000] "GET /index.html HTTP/1.1" 200 3206 "-" "Mozilla/5.0"
+192.168.1.40 - - [18/Aug/2026:23:28:21 +0000] "POST /api/v1/login HTTP/1.1" 200 3243 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:28:23 +0000] "GET /../../etc/passwd HTTP/1.1" 403 512 "-" "CustomScanner/1.0"
+192.168.1.42 - - [18/Aug/2026:23:28:25 +0000] "GET /api/v1/products HTTP/1.1" 200 3317 "-" "Mozilla/5.0"
+192.168.1.43 - - [18/Aug/2026:23:28:27 +0000] "GET /api/v1/products HTTP/1.1" 200 3354 "-" "Mozilla/5.0"
+192.168.1.44 - - [18/Aug/2026:23:28:29 +0000] "GET /index.html HTTP/1.1" 200 3391 "-" "Mozilla/5.0"
+192.168.1.45 - - [18/Aug/2026:23:28:31 +0000] "POST /api/v1/login HTTP/1.1" 200 3428 "-" "Mozilla/5.0"
+2026-08-18 23:28:33 [INFO] Background job completed successfully in 245ms
+192.168.1.47 - - [18/Aug/2026:23:28:35 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:28:37 [INFO] Background job completed successfully in 21ms
+192.168.1.49 - - [18/Aug/2026:23:28:39 +0000] "POST /api/v1/login HTTP/1.1" 200 3576 "-" "Mozilla/5.0"
+192.168.1.50 - - [18/Aug/2026:23:28:41 +0000] "POST /api/v1/login HTTP/1.1" 200 3613 "-" "Mozilla/5.0"
+192.168.1.51 - - [18/Aug/2026:23:28:43 +0000] "GET /index.html HTTP/1.1" 200 3650 "-" "Mozilla/5.0"
+192.168.1.52 - - [18/Aug/2026:23:28:45 +0000] "GET /index.html HTTP/1.1" 200 3687 "-" "Mozilla/5.0"
+2026-08-18 23:28:47 [INFO] Background job completed successfully in 86ms
+192.168.1.54 - - [18/Aug/2026:23:28:49 +0000] "GET /index.html HTTP/1.1" 200 3761 "-" "Mozilla/5.0"
+192.168.1.55 - - [18/Aug/2026:23:28:51 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:28:53 [INFO] Background job completed successfully in 125ms
+2026-08-18 23:28:55 [INFO] Background job completed successfully in 138ms
+192.168.1.58 - - [18/Aug/2026:23:28:57 +0000] "GET /api/v1/products HTTP/1.1" 200 3909 "-" "Mozilla/5.0"
+192.168.1.59 - - [18/Aug/2026:23:28:59 +0000] "POST /api/v1/login HTTP/1.1" 200 3946 "-" "Mozilla/5.0"
+192.168.1.60 - - [18/Aug/2026:23:29:01 +0000] "GET /api/v1/products HTTP/1.1" 200 3983 "-" "Mozilla/5.0"
+2026-08-18 23:29:03 [ERROR] Unauthorized access attempt detected from IP 192.168.99.99 on port 22
+192.168.1.62 - - [18/Aug/2026:23:29:05 +0000] "POST /api/v1/login HTTP/1.1" 200 4057 "-" "Mozilla/5.0"
+192.168.1.63 - - [18/Aug/2026:23:29:07 +0000] "GET /index.html HTTP/1.1" 200 4094 "-" "Mozilla/5.0"
+192.168.1.64 - - [18/Aug/2026:23:29:09 +0000] "GET /api/v1/products HTTP/1.1" 200 4131 "-" "Mozilla/5.0"
+192.168.1.65 - - [18/Aug/2026:23:29:11 +0000] "POST /api/v1/login HTTP/1.1" 200 4168 "-" "Mozilla/5.0"
+192.168.1.66 - - [18/Aug/2026:23:29:13 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.67 - - [18/Aug/2026:23:29:15 +0000] "POST /api/v1/login HTTP/1.1" 200 242 "-" "Mozilla/5.0"
+192.168.1.68 - - [18/Aug/2026:23:29:17 +0000] "GET /index.html HTTP/1.1" 200 279 "-" "Mozilla/5.0"
+192.168.1.69 - - [18/Aug/2026:23:29:19 +0000] "POST /api/v1/login HTTP/1.1" 200 316 "-" "Mozilla/5.0"
+2026-08-18 23:29:21 [INFO] Background job completed successfully in 57ms
+192.168.1.71 - - [18/Aug/2026:23:29:23 +0000] "GET /index.html HTTP/1.1" 200 390 "-" "Mozilla/5.0"
+192.168.1.72 - - [18/Aug/2026:23:29:25 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.73 - - [18/Aug/2026:23:29:27 +0000] "GET /index.html HTTP/1.1" 200 464 "-" "Mozilla/5.0"
+192.168.1.74 - - [18/Aug/2026:23:29:29 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.75 - - [18/Aug/2026:23:29:31 +0000] "GET /index.html HTTP/1.1" 200 538 "-" "Mozilla/5.0"
+192.168.1.76 - - [18/Aug/2026:23:29:33 +0000] "POST /api/v1/login HTTP/1.1" 200 575 "-" "Mozilla/5.0"
+2026-08-18 23:29:35 [INFO] Background job completed successfully in 148ms
+192.168.1.78 - - [18/Aug/2026:23:29:37 +0000] "GET /api/v1/products HTTP/1.1" 200 649 "-" "Mozilla/5.0"
+2026-08-18 23:29:39 [INFO] Background job completed successfully in 174ms
+192.168.1.80 - - [18/Aug/2026:23:29:41 +0000] "GET /index.html HTTP/1.1" 200 723 "-" "Mozilla/5.0"
+2026-08-18 23:29:43 [CRITICAL] FATAL: OutOfMemoryError in worker thread pool! Heap dump generated.
+192.168.1.82 - - [18/Aug/2026:23:29:45 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.83 - - [18/Aug/2026:23:29:47 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:29:49 [INFO] Background job completed successfully in 239ms
+192.168.1.85 - - [18/Aug/2026:23:29:51 +0000] "POST /api/v1/login HTTP/1.1" 200 908 "-" "Mozilla/5.0"
+192.168.1.86 - - [18/Aug/2026:23:29:53 +0000] "GET /api/v1/products HTTP/1.1" 200 945 "-" "Mozilla/5.0"
+192.168.1.87 - - [18/Aug/2026:23:29:55 +0000] "GET /api/v1/products HTTP/1.1" 200 982 "-" "Mozilla/5.0"
+192.168.1.88 - - [18/Aug/2026:23:29:57 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.89 - - [18/Aug/2026:23:29:59 +0000] "GET /api/v1/products HTTP/1.1" 200 1056 "-" "Mozilla/5.0"
+192.168.1.90 - - [18/Aug/2026:23:30:01 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.91 - - [18/Aug/2026:23:30:03 +0000] "GET /index.html HTTP/1.1" 200 1130 "-" "Mozilla/5.0"
+192.168.1.92 - - [18/Aug/2026:23:30:05 +0000] "GET /index.html HTTP/1.1" 200 1167 "-" "Mozilla/5.0"
+192.168.1.93 - - [18/Aug/2026:23:30:07 +0000] "GET /index.html HTTP/1.1" 200 1204 "-" "Mozilla/5.0"
+192.168.1.94 - - [18/Aug/2026:23:30:09 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.95 - - [18/Aug/2026:23:30:11 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.96 - - [18/Aug/2026:23:30:13 +0000] "GET /api/v1/products HTTP/1.1" 200 1315 "-" "Mozilla/5.0"
+192.168.1.97 - - [18/Aug/2026:23:30:15 +0000] "POST /api/v1/login HTTP/1.1" 200 1352 "-" "Mozilla/5.0"
+192.168.1.98 - - [18/Aug/2026:23:30:17 +0000] "GET /index.html HTTP/1.1" 200 1389 "-" "Mozilla/5.0"
+192.168.1.99 - - [18/Aug/2026:23:30:19 +0000] "POST /api/v1/login HTTP/1.1" 200 1426 "-" "Mozilla/5.0"
+192.168.1.100 - - [18/Aug/2026:23:30:21 +0000] "POST /api/v1/login HTTP/1.1" 200 1463 "-" "Mozilla/5.0"
+2026-08-18 23:30:23 [CRITICAL] FATAL: OutOfMemoryError in worker thread pool! Heap dump generated.
+192.168.1.102 - - [18/Aug/2026:23:30:25 +0000] "GET /api/v1/products HTTP/1.1" 200 1537 "-" "Mozilla/5.0"
+192.168.1.103 - - [18/Aug/2026:23:30:27 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:30:29 [INFO] Background job completed successfully in 249ms
+192.168.1.105 - - [18/Aug/2026:23:30:31 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.106 - - [18/Aug/2026:23:30:33 +0000] "GET /index.html HTTP/1.1" 200 1685 "-" "Mozilla/5.0"
+192.168.1.107 - - [18/Aug/2026:23:30:35 +0000] "GET /api/v1/products HTTP/1.1" 200 1722 "-" "Mozilla/5.0"
+2026-08-18 23:30:37 [INFO] Background job completed successfully in 51ms
+192.168.1.109 - - [18/Aug/2026:23:30:39 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.110 - - [18/Aug/2026:23:30:41 +0000] "GET /api/v1/products HTTP/1.1" 200 1833 "-" "Mozilla/5.0"
+2026-08-18 23:30:43 [INFO] Background job completed successfully in 90ms
+192.168.1.112 - - [18/Aug/2026:23:30:45 +0000] "POST /api/v1/login HTTP/1.1" 200 1907 "-" "Mozilla/5.0"
+192.168.1.113 - - [18/Aug/2026:23:30:47 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:30:49 [INFO] Background job completed successfully in 129ms
+192.168.1.115 - - [18/Aug/2026:23:30:51 +0000] "GET /api/v1/products HTTP/1.1" 200 2018 "-" "Mozilla/5.0"
+192.168.1.116 - - [18/Aug/2026:23:30:53 +0000] "GET /index.html HTTP/1.1" 200 2055 "-" "Mozilla/5.0"
+192.168.1.117 - - [18/Aug/2026:23:30:55 +0000] "POST /api/v1/login HTTP/1.1" 200 2092 "-" "Mozilla/5.0"
+2026-08-18 23:30:57 [INFO] Background job completed successfully in 181ms
+192.168.1.119 - - [18/Aug/2026:23:30:59 +0000] "POST /api/v1/login HTTP/1.1" 200 2166 "-" "Mozilla/5.0"
+192.168.1.120 - - [18/Aug/2026:23:31:01 +0000] "POST /api/v1/login HTTP/1.1" 200 2203 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:31:03 +0000] "GET /../../etc/passwd HTTP/1.1" 403 512 "-" "CustomScanner/1.0"
+192.168.1.122 - - [18/Aug/2026:23:31:05 +0000] "GET /index.html HTTP/1.1" 200 2277 "-" "Mozilla/5.0"
+192.168.1.123 - - [18/Aug/2026:23:31:07 +0000] "POST /api/v1/login HTTP/1.1" 200 2314 "-" "Mozilla/5.0"
+192.168.1.124 - - [18/Aug/2026:23:31:09 +0000] "POST /api/v1/login HTTP/1.1" 200 2351 "-" "Mozilla/5.0"
+192.168.1.125 - - [18/Aug/2026:23:31:11 +0000] "GET /api/v1/products HTTP/1.1" 200 2388 "-" "Mozilla/5.0"
+2026-08-18 23:31:13 [INFO] Background job completed successfully in 35ms
+192.168.1.127 - - [18/Aug/2026:23:31:15 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.128 - - [18/Aug/2026:23:31:17 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.129 - - [18/Aug/2026:23:31:19 +0000] "GET /api/v1/products HTTP/1.1" 200 2536 "-" "Mozilla/5.0"
+192.168.1.130 - - [18/Aug/2026:23:31:21 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.131 - - [18/Aug/2026:23:31:23 +0000] "GET /index.html HTTP/1.1" 200 2610 "-" "Mozilla/5.0"
+192.168.1.132 - - [18/Aug/2026:23:31:25 +0000] "GET /index.html HTTP/1.1" 200 2647 "-" "Mozilla/5.0"
+192.168.1.133 - - [18/Aug/2026:23:31:27 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.134 - - [18/Aug/2026:23:31:29 +0000] "POST /api/v1/login HTTP/1.1" 200 2721 "-" "Mozilla/5.0"
+2026-08-18 23:31:31 [INFO] Background job completed successfully in 152ms
+192.168.1.136 - - [18/Aug/2026:23:31:33 +0000] "GET /api/v1/products HTTP/1.1" 200 2795 "-" "Mozilla/5.0"
+192.168.1.137 - - [18/Aug/2026:23:31:35 +0000] "GET /api/v1/products HTTP/1.1" 200 2832 "-" "Mozilla/5.0"
+192.168.1.138 - - [18/Aug/2026:23:31:37 +0000] "POST /api/v1/login HTTP/1.1" 200 2869 "-" "Mozilla/5.0"
+192.168.1.139 - - [18/Aug/2026:23:31:39 +0000] "GET /index.html HTTP/1.1" 200 2906 "-" "Mozilla/5.0"
+2026-08-18 23:31:41 [INFO] Background job completed successfully in 217ms
+10.0.0.99 - - [18/Aug/2026:23:31:43 +0000] "GET /api/search?q=' OR 1=1 -- HTTP/1.1" 500 4096 "-" "Python-urllib/3.8"
+192.168.1.142 - - [18/Aug/2026:23:31:45 +0000] "GET /api/v1/products HTTP/1.1" 200 3017 "-" "Mozilla/5.0"
+2026-08-18 23:31:47 [INFO] Background job completed successfully in 256ms
+192.168.1.144 - - [18/Aug/2026:23:31:49 +0000] "GET /index.html HTTP/1.1" 200 3091 "-" "Mozilla/5.0"
+192.168.1.145 - - [18/Aug/2026:23:31:51 +0000] "GET /index.html HTTP/1.1" 200 3128 "-" "Mozilla/5.0"
+192.168.1.146 - - [18/Aug/2026:23:31:53 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.147 - - [18/Aug/2026:23:31:55 +0000] "POST /api/v1/login HTTP/1.1" 200 3202 "-" "Mozilla/5.0"
+192.168.1.148 - - [18/Aug/2026:23:31:57 +0000] "POST /api/v1/login HTTP/1.1" 200 3239 "-" "Mozilla/5.0"
+2026-08-18 23:31:59 [INFO] Background job completed successfully in 84ms
+192.168.1.150 - - [18/Aug/2026:23:32:01 +0000] "GET /api/v1/products HTTP/1.1" 200 3313 "-" "Mozilla/5.0"
+192.168.1.151 - - [18/Aug/2026:23:32:03 +0000] "POST /api/v1/login HTTP/1.1" 200 3350 "-" "Mozilla/5.0"
+192.168.1.152 - - [18/Aug/2026:23:32:05 +0000] "GET /api/v1/products HTTP/1.1" 200 3387 "-" "Mozilla/5.0"
+192.168.1.153 - - [18/Aug/2026:23:32:07 +0000] "GET /api/v1/products HTTP/1.1" 200 3424 "-" "Mozilla/5.0"
+2026-08-18 23:32:09 [INFO] Background job completed successfully in 149ms
+192.168.1.155 - - [18/Aug/2026:23:32:11 +0000] "GET /index.html HTTP/1.1" 200 3498 "-" "Mozilla/5.0"
+192.168.1.156 - - [18/Aug/2026:23:32:13 +0000] "GET /index.html HTTP/1.1" 200 3535 "-" "Mozilla/5.0"
+192.168.1.157 - - [18/Aug/2026:23:32:15 +0000] "GET /api/v1/products HTTP/1.1" 200 3572 "-" "Mozilla/5.0"
+192.168.1.158 - - [18/Aug/2026:23:32:17 +0000] "GET /api/v1/products HTTP/1.1" 200 3609 "-" "Mozilla/5.0"
+192.168.1.159 - - [18/Aug/2026:23:32:19 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.160 - - [18/Aug/2026:23:32:21 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+10.0.0.99 - - [18/Aug/2026:23:32:23 +0000] "GET /../../etc/passwd HTTP/1.1" 403 512 "-" "CustomScanner/1.0"
+192.168.1.162 - - [18/Aug/2026:23:32:25 +0000] "POST /api/v1/login HTTP/1.1" 200 3757 "-" "Mozilla/5.0"
+192.168.1.163 - - [18/Aug/2026:23:32:27 +0000] "GET /api/v1/products HTTP/1.1" 200 3794 "-" "Mozilla/5.0"
+192.168.1.164 - - [18/Aug/2026:23:32:29 +0000] "POST /api/v1/login HTTP/1.1" 200 3831 "-" "Mozilla/5.0"
+192.168.1.165 - - [18/Aug/2026:23:32:31 +0000] "GET /api/v1/products HTTP/1.1" 200 3868 "-" "Mozilla/5.0"
+192.168.1.166 - - [18/Aug/2026:23:32:33 +0000] "GET /index.html HTTP/1.1" 200 3905 "-" "Mozilla/5.0"
+192.168.1.167 - - [18/Aug/2026:23:32:35 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+2026-08-18 23:32:37 [INFO] Background job completed successfully in 81ms
+192.168.1.169 - - [18/Aug/2026:23:32:39 +0000] "GET /index.html HTTP/1.1" 200 4016 "-" "Mozilla/5.0"
+192.168.1.170 - - [18/Aug/2026:23:32:41 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.171 - - [18/Aug/2026:23:32:43 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.172 - - [18/Aug/2026:23:32:45 +0000] "GET /index.html HTTP/1.1" 200 4127 "-" "Mozilla/5.0"
+192.168.1.173 - - [18/Aug/2026:23:32:47 +0000] "GET /api/v1/products HTTP/1.1" 200 4164 "-" "Mozilla/5.0"
+192.168.1.174 - - [18/Aug/2026:23:32:49 +0000] "GET /index.html HTTP/1.1" 200 201 "-" "Mozilla/5.0"
+192.168.1.175 - - [18/Aug/2026:23:32:51 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.176 - - [18/Aug/2026:23:32:53 +0000] "GET /index.html HTTP/1.1" 200 275 "-" "Mozilla/5.0"
+192.168.1.177 - - [18/Aug/2026:23:32:55 +0000] "POST /api/v1/login HTTP/1.1" 200 312 "-" "Mozilla/5.0"
+192.168.1.178 - - [18/Aug/2026:23:32:57 +0000] "POST /api/v1/login HTTP/1.1" 200 349 "-" "Mozilla/5.0"
+192.168.1.179 - - [18/Aug/2026:23:32:59 +0000] "GET /index.html HTTP/1.1" 200 386 "-" "Mozilla/5.0"
+192.168.1.180 - - [18/Aug/2026:23:33:01 +0000] "POST /api/v1/login HTTP/1.1" 200 423 "-" "Mozilla/5.0"
+2026-08-18 23:33:03 [CRITICAL] FATAL: OutOfMemoryError in worker thread pool! Heap dump generated.
+192.168.1.182 - - [18/Aug/2026:23:33:05 +0000] "GET /index.html HTTP/1.1" 200 497 "-" "Mozilla/5.0"
+192.168.1.183 - - [18/Aug/2026:23:33:07 +0000] "GET /api/v1/products HTTP/1.1" 200 534 "-" "Mozilla/5.0"
+192.168.1.184 - - [18/Aug/2026:23:33:09 +0000] "POST /api/v1/login HTTP/1.1" 200 571 "-" "Mozilla/5.0"
+192.168.1.185 - - [18/Aug/2026:23:33:11 +0000] "GET /index.html HTTP/1.1" 200 608 "-" "Mozilla/5.0"
+2026-08-18 23:33:13 [INFO] Background job completed successfully in 65ms
+192.168.1.187 - - [18/Aug/2026:23:33:15 +0000] "GET /api/v1/products HTTP/1.1" 200 682 "-" "Mozilla/5.0"
+192.168.1.188 - - [18/Aug/2026:23:33:17 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-" "Mozilla/5.0"
+192.168.1.189 - - [18/Aug/2026:23:33:19 +0000] "GET /api/v1/products HTTP/1.1" 200 756 "-" "Mozilla/5.0"
+192.168.1.190 - - [18/Aug/2026:23:33:21 +0000] "GET /index.html HTTP/1.1" 200 793 "-" "Mozilla/5.0"
+192.168.1.191 - - [18/Aug/2026:23:33:23 +0000] "POST /api/v1/login HTTP/1.1" 200 830 "-" "Mozilla/5.0"
+192.168.1.192 - - [18/Aug/2026:23:33:25 +0000] "GET /api/v1/products HTTP/1.1" 200 867 "-" "Mozilla/5.0"
+192.168.1.193 - - [18/Aug/2026:23:33:27 +0000] "GET /index.html HTTP/1.1" 200 904 "-" "Mozilla/5.0"
+192.168.1.194 - - [18/Aug/2026:23:33:29 +0000] "GET /index.html HTTP/1.1" 200 941 "-" "Mozilla/5.0"
+192.168.1.195 - - [18/Aug/2026:23:33:31 +0000] "GET /api/v1/products HTTP/1.1" 200 978 "-" "Mozilla/5.0"
+192.168.1.196 - - [18/Aug/2026:23:33:33 +0000] "GET /api/v1/products HTTP/1.1" 200 1015 "-" "Mozilla/5.0"
+192.168.1.197 - - [18/Aug/2026:23:33:35 +0000] "GET /api/v1/products HTTP/1.1" 200 1052 "-" "Mozilla/5.0"
+2026-08-18 23:33:37 [INFO] Background job completed successfully in 221ms
+192.168.1.199 - - [18/Aug/2026:23:33:39 +0000] "GET /api/v1/products HTTP/1.1" 200 1126 "-" "Mozilla/5.0"
+192.168.1.200 - - [18/Aug/2026:23:33:41 +0000] "GET /api/v1/products HTTP/1.1" 200 1163 "-" "Mozilla/5.0"
